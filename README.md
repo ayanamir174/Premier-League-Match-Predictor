@@ -1,1 +1,1 @@
-Predicts the results of soccer games in the English Premier League
+This project aims to predict the results of Premier League matches using machine learning techniques and data scraping. By using match data, team statistics, and player performance metrics, the model determines outcomes such as wins, draws, or losses for upcoming matches.

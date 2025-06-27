@@ -37,3 +37,11 @@ Can we predict whether a Premier League team will **win**, **lose**, or **draw**
 - **67.5% overall accuracy** on multi-class (Win/Draw/Loss) prediction
 - **75% win/loss accuracy** when excluding draws
 - **F1-score**: 0.73 for draws/losses (class 0), 0.42 for wins (class 1)
+
+---
+
+## 📁 Files
+- `scrape.ipynb` – Web scraping logic
+- `predictions.ipynb` – Model training and evaluation
+- `final_predictions.csv` – Evaluation output
+- `Premier_League_Match_Predictor_Report.pdf` – Slide deck summary

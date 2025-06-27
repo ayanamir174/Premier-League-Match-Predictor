@@ -4,7 +4,7 @@ This project uses machine learning to predict the outcome of English Premier Lea
 
 ## 📄 Project Summary
 
-👉 [View Slide Deck (PDF)](./Project Summary.pdf)
+👉 [View Slide Deck (PDF)](./Project_Summary.pdf)
 
 ---
 

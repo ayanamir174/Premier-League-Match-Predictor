@@ -4,7 +4,7 @@ This project uses machine learning to predict the outcome of English Premier Lea
 
 ## 📄 Project Summary
 
-👉 [View Slide Deck (PDF)](./Premier_League_Match_Predictor_Report.pdf)
+👉 [View Slide Deck (PDF)](./Project Summary.pdf)
 
 ---
 

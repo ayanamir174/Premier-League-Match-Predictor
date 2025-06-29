@@ -41,8 +41,8 @@ Can we predict whether a Premier League team will **win**, **lose**, or **draw**
 ---
 
 ## 📁 Files
-- `scrape.ipynb` – Web scraping logic
-- `predictions.ipynb` – Model training and evaluation
-- `final_predictions.csv` – Evaluation output
-- `Premier_League_Match_Predictor_Report.pdf` – Slide deck summary
+- `Project Summary.pdf` – Slide deck summary
 - `matches.csv` – Matches information
+- `predictions.ipynb` – Model training and evaluation
+- `scrape.ipynb` – Web scraping logic
+- `final_predictions.csv` – Evaluation output

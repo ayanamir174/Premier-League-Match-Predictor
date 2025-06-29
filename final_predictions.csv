@@ -1,0 +1,1903 @@
+actual,prediction,date,team,opponent,result,new_team
+0,0,2022-01-23,Arsenal,Burnley,D,Arsenal
+1,1,2022-02-10,Arsenal,Wolves,W,Arsenal
+1,0,2022-02-19,Arsenal,Brentford,W,Arsenal
+1,0,2022-02-24,Arsenal,Wolves,W,Arsenal
+1,0,2022-03-06,Arsenal,Watford,W,Arsenal
+1,0,2022-03-13,Arsenal,Leicester City,W,Arsenal
+0,0,2022-03-16,Arsenal,Liverpool,L,Arsenal
+1,1,2022-03-19,Arsenal,Aston Villa,W,Arsenal
+0,0,2022-04-04,Arsenal,Crystal Palace,L,Arsenal
+0,0,2022-04-09,Arsenal,Brighton,L,Arsenal
+0,0,2022-04-16,Arsenal,Southampton,L,Arsenal
+1,0,2022-04-20,Arsenal,Chelsea,W,Arsenal
+1,0,2022-04-23,Arsenal,Manchester Utd,W,Arsenal
+1,0,2022-05-01,Arsenal,West Ham,W,Arsenal
+1,1,2022-05-08,Arsenal,Leeds United,W,Arsenal
+0,1,2022-05-12,Arsenal,Tottenham,L,Arsenal
+0,1,2022-05-16,Arsenal,Newcastle Utd,L,Arsenal
+1,0,2022-05-22,Arsenal,Everton,W,Arsenal
+1,0,2022-08-05,Arsenal,Crystal Palace,W,Arsenal
+1,0,2022-08-13,Arsenal,Leicester City,W,Arsenal
+1,1,2022-08-20,Arsenal,Bournemouth,W,Arsenal
+1,0,2022-08-27,Arsenal,Fulham,W,Arsenal
+1,1,2022-08-31,Arsenal,Aston Villa,W,Arsenal
+0,0,2022-09-04,Arsenal,Manchester Utd,L,Arsenal
+1,1,2022-09-18,Arsenal,Brentford,W,Arsenal
+1,1,2022-10-01,Arsenal,Tottenham,W,Arsenal
+1,0,2022-10-09,Arsenal,Liverpool,W,Arsenal
+1,1,2022-10-16,Arsenal,Leeds United,W,Arsenal
+0,1,2022-10-23,Arsenal,Southampton,D,Arsenal
+1,1,2022-10-30,Arsenal,Nott'ham Forest,W,Arsenal
+1,0,2022-11-06,Arsenal,Chelsea,W,Arsenal
+1,1,2022-11-12,Arsenal,Wolves,W,Arsenal
+1,1,2022-12-26,Arsenal,West Ham,W,Arsenal
+1,0,2022-12-31,Arsenal,Brighton,W,Arsenal
+0,1,2023-01-03,Arsenal,Newcastle Utd,D,Arsenal
+1,0,2023-01-15,Arsenal,Tottenham,W,Arsenal
+1,1,2023-01-22,Arsenal,Manchester Utd,W,Arsenal
+0,0,2023-02-04,Arsenal,Everton,L,Arsenal
+0,0,2023-02-11,Arsenal,Brentford,D,Arsenal
+0,0,2023-02-15,Arsenal,Manchester City,L,Arsenal
+1,0,2023-02-18,Arsenal,Aston Villa,W,Arsenal
+1,0,2023-02-25,Arsenal,Leicester City,W,Arsenal
+1,0,2023-03-01,Arsenal,Everton,W,Arsenal
+1,0,2023-03-04,Arsenal,Bournemouth,W,Arsenal
+1,1,2023-03-12,Arsenal,Fulham,W,Arsenal
+1,1,2023-03-19,Arsenal,Crystal Palace,W,Arsenal
+1,0,2023-04-01,Arsenal,Leeds United,W,Arsenal
+0,1,2023-04-09,Arsenal,Liverpool,D,Arsenal
+0,1,2023-04-16,Arsenal,West Ham,D,Arsenal
+0,0,2023-04-21,Arsenal,Southampton,D,Arsenal
+0,0,2023-04-26,Arsenal,Manchester City,L,Arsenal
+1,0,2023-05-02,Arsenal,Chelsea,W,Arsenal
+1,0,2023-05-07,Arsenal,Newcastle Utd,W,Arsenal
+0,1,2023-05-14,Arsenal,Brighton,L,Arsenal
+0,1,2023-05-20,Arsenal,Nott'ham Forest,L,Arsenal
+1,0,2023-05-28,Arsenal,Wolves,W,Arsenal
+1,0,2023-08-12,Arsenal,Nott'ham Forest,W,Arsenal
+1,0,2023-08-21,Arsenal,Crystal Palace,W,Arsenal
+0,0,2023-08-26,Arsenal,Fulham,D,Arsenal
+1,0,2023-09-03,Arsenal,Manchester Utd,W,Arsenal
+1,0,2023-09-17,Arsenal,Everton,W,Arsenal
+0,1,2023-09-24,Arsenal,Tottenham,D,Arsenal
+1,0,2023-09-30,Arsenal,Bournemouth,W,Arsenal
+1,0,2023-10-08,Arsenal,Manchester City,W,Arsenal
+0,0,2023-10-21,Arsenal,Chelsea,D,Arsenal
+1,1,2023-10-28,Arsenal,Sheffield Utd,W,Arsenal
+0,0,2023-11-04,Arsenal,Newcastle Utd,L,Arsenal
+1,0,2023-11-11,Arsenal,Burnley,W,Arsenal
+1,0,2023-11-25,Arsenal,Brentford,W,Arsenal
+1,0,2023-12-02,Arsenal,Wolves,W,Arsenal
+1,1,2023-12-05,Arsenal,Luton Town,W,Arsenal
+0,0,2023-12-09,Arsenal,Aston Villa,L,Arsenal
+1,1,2023-12-17,Arsenal,Brighton,W,Arsenal
+0,0,2023-12-23,Arsenal,Liverpool,D,Arsenal
+0,1,2023-12-28,Arsenal,West Ham,L,Arsenal
+0,1,2023-12-31,Arsenal,Fulham,L,Arsenal
+1,0,2024-01-20,Arsenal,Crystal Palace,W,Arsenal
+1,1,2024-01-30,Arsenal,Nott'ham Forest,W,Arsenal
+1,0,2024-02-04,Arsenal,Liverpool,W,Arsenal
+1,1,2024-02-11,Arsenal,West Ham,W,Arsenal
+1,1,2024-02-17,Arsenal,Burnley,W,Arsenal
+1,1,2024-02-24,Arsenal,Newcastle Utd,W,Arsenal
+1,1,2024-03-04,Arsenal,Sheffield Utd,W,Arsenal
+1,1,2024-03-09,Arsenal,Brentford,W,Arsenal
+0,1,2024-03-31,Arsenal,Manchester City,D,Arsenal
+1,0,2024-04-03,Arsenal,Luton Town,W,Arsenal
+1,0,2024-04-06,Arsenal,Brighton,W,Arsenal
+0,1,2024-04-14,Arsenal,Aston Villa,L,Arsenal
+1,1,2024-04-20,Arsenal,Wolves,W,Arsenal
+1,1,2024-04-23,Arsenal,Chelsea,W,Arsenal
+1,1,2024-04-28,Arsenal,Tottenham,W,Arsenal
+1,1,2024-05-04,Arsenal,Bournemouth,W,Arsenal
+1,1,2024-05-12,Arsenal,Manchester Utd,W,Arsenal
+1,0,2024-05-19,Arsenal,Everton,W,Arsenal
+0,0,2022-01-02,Aston Villa,Brentford,L,Aston Villa
+0,0,2022-01-15,Aston Villa,Manchester Utd,D,Aston Villa
+1,0,2022-01-22,Aston Villa,Everton,W,Aston Villa
+0,0,2022-02-09,Aston Villa,Leeds United,D,Aston Villa
+0,0,2022-02-13,Aston Villa,Newcastle Utd,L,Aston Villa
+0,0,2022-02-19,Aston Villa,Watford,L,Aston Villa
+1,0,2022-02-26,Aston Villa,Brighton,W,Aston Villa
+1,0,2022-03-05,Aston Villa,Southampton,W,Aston Villa
+1,0,2022-03-10,Aston Villa,Leeds United,W,Aston Villa
+0,1,2022-03-13,Aston Villa,West Ham,L,Aston Villa
+0,0,2022-03-19,Aston Villa,Arsenal,L,Aston Villa
+0,0,2022-04-02,Aston Villa,Wolves,L,Aston Villa
+0,0,2022-04-09,Aston Villa,Tottenham,L,Aston Villa
+0,0,2022-04-23,Aston Villa,Leicester City,D,Aston Villa
+1,0,2022-04-30,Aston Villa,Norwich City,W,Aston Villa
+1,0,2022-05-07,Aston Villa,Burnley,W,Aston Villa
+0,0,2022-05-10,Aston Villa,Liverpool,L,Aston Villa
+0,1,2022-05-15,Aston Villa,Crystal Palace,D,Aston Villa
+0,1,2022-05-19,Aston Villa,Burnley,D,Aston Villa
+0,0,2022-05-22,Aston Villa,Manchester City,L,Aston Villa
+0,0,2022-08-06,Aston Villa,Bournemouth,L,Aston Villa
+1,0,2022-08-13,Aston Villa,Everton,W,Aston Villa
+0,0,2022-08-20,Aston Villa,Crystal Palace,L,Aston Villa
+0,0,2022-08-28,Aston Villa,West Ham,L,Aston Villa
+0,0,2022-08-31,Aston Villa,Arsenal,L,Aston Villa
+0,0,2022-09-03,Aston Villa,Manchester City,D,Aston Villa
+1,0,2022-09-16,Aston Villa,Southampton,W,Aston Villa
+0,1,2022-10-02,Aston Villa,Leeds United,D,Aston Villa
+0,0,2022-10-10,Aston Villa,Nott'ham Forest,D,Aston Villa
+0,1,2022-10-16,Aston Villa,Chelsea,L,Aston Villa
+0,0,2022-10-20,Aston Villa,Fulham,L,Aston Villa
+1,1,2022-10-23,Aston Villa,Brentford,W,Aston Villa
+0,0,2022-10-29,Aston Villa,Newcastle Utd,L,Aston Villa
+1,0,2022-11-06,Aston Villa,Manchester Utd,W,Aston Villa
+1,0,2022-11-13,Aston Villa,Brighton,W,Aston Villa
+0,0,2022-12-26,Aston Villa,Liverpool,L,Aston Villa
+1,0,2023-01-01,Aston Villa,Tottenham,W,Aston Villa
+0,1,2023-01-04,Aston Villa,Wolves,D,Aston Villa
+1,0,2023-01-13,Aston Villa,Leeds United,W,Aston Villa
+1,0,2023-01-21,Aston Villa,Southampton,W,Aston Villa
+0,1,2023-02-04,Aston Villa,Leicester City,L,Aston Villa
+0,0,2023-02-12,Aston Villa,Manchester City,L,Aston Villa
+0,0,2023-02-18,Aston Villa,Arsenal,L,Aston Villa
+1,0,2023-02-25,Aston Villa,Everton,W,Aston Villa
+1,0,2023-03-04,Aston Villa,Crystal Palace,W,Aston Villa
+0,0,2023-03-12,Aston Villa,West Ham,D,Aston Villa
+1,1,2023-03-18,Aston Villa,Bournemouth,W,Aston Villa
+1,0,2023-04-01,Aston Villa,Chelsea,W,Aston Villa
+1,0,2023-04-04,Aston Villa,Leicester City,W,Aston Villa
+1,1,2023-04-08,Aston Villa,Nott'ham Forest,W,Aston Villa
+1,1,2023-04-15,Aston Villa,Newcastle Utd,W,Aston Villa
+0,0,2023-04-22,Aston Villa,Brentford,D,Aston Villa
+1,0,2023-04-25,Aston Villa,Fulham,W,Aston Villa
+0,0,2023-04-30,Aston Villa,Manchester Utd,L,Aston Villa
+0,0,2023-05-06,Aston Villa,Wolves,L,Aston Villa
+1,0,2023-05-13,Aston Villa,Tottenham,W,Aston Villa
+0,0,2023-05-20,Aston Villa,Liverpool,D,Aston Villa
+1,0,2023-05-28,Aston Villa,Brighton,W,Aston Villa
+0,0,2023-08-12,Aston Villa,Newcastle Utd,L,Aston Villa
+1,0,2023-08-20,Aston Villa,Everton,W,Aston Villa
+1,1,2023-08-27,Aston Villa,Burnley,W,Aston Villa
+0,0,2023-09-03,Aston Villa,Liverpool,L,Aston Villa
+1,0,2023-09-16,Aston Villa,Crystal Palace,W,Aston Villa
+1,0,2023-09-24,Aston Villa,Chelsea,W,Aston Villa
+1,0,2023-09-30,Aston Villa,Brighton,W,Aston Villa
+0,1,2023-10-08,Aston Villa,Wolves,D,Aston Villa
+1,1,2023-10-22,Aston Villa,West Ham,W,Aston Villa
+1,0,2023-10-29,Aston Villa,Luton Town,W,Aston Villa
+0,0,2023-11-05,Aston Villa,Nott'ham Forest,L,Aston Villa
+1,0,2023-11-12,Aston Villa,Fulham,W,Aston Villa
+1,0,2023-11-26,Aston Villa,Tottenham,W,Aston Villa
+0,0,2023-12-03,Aston Villa,Bournemouth,D,Aston Villa
+1,0,2023-12-06,Aston Villa,Manchester City,W,Aston Villa
+1,0,2023-12-09,Aston Villa,Arsenal,W,Aston Villa
+1,0,2023-12-17,Aston Villa,Brentford,W,Aston Villa
+0,1,2023-12-22,Aston Villa,Sheffield Utd,D,Aston Villa
+0,0,2023-12-26,Aston Villa,Manchester Utd,L,Aston Villa
+1,0,2023-12-30,Aston Villa,Burnley,W,Aston Villa
+0,0,2024-01-14,Aston Villa,Everton,D,Aston Villa
+0,0,2024-01-30,Aston Villa,Newcastle Utd,L,Aston Villa
+1,0,2024-02-03,Aston Villa,Sheffield Utd,W,Aston Villa
+0,1,2024-02-11,Aston Villa,Manchester Utd,L,Aston Villa
+1,0,2024-02-17,Aston Villa,Fulham,W,Aston Villa
+1,1,2024-02-24,Aston Villa,Nott'ham Forest,W,Aston Villa
+1,0,2024-03-02,Aston Villa,Luton Town,W,Aston Villa
+0,1,2024-03-10,Aston Villa,Tottenham,L,Aston Villa
+0,0,2024-03-17,Aston Villa,West Ham,D,Aston Villa
+1,0,2024-03-30,Aston Villa,Wolves,W,Aston Villa
+0,0,2024-04-03,Aston Villa,Manchester City,L,Aston Villa
+0,0,2024-04-06,Aston Villa,Brentford,D,Aston Villa
+1,0,2024-04-14,Aston Villa,Arsenal,W,Aston Villa
+1,0,2024-04-21,Aston Villa,Bournemouth,W,Aston Villa
+0,0,2024-04-27,Aston Villa,Chelsea,D,Aston Villa
+0,0,2024-05-05,Aston Villa,Brighton,L,Aston Villa
+0,0,2024-05-13,Aston Villa,Liverpool,D,Aston Villa
+0,0,2024-05-19,Aston Villa,Crystal Palace,L,Aston Villa
+1,0,2022-08-06,Bournemouth,Aston Villa,W,Bournemouth
+0,0,2022-08-13,Bournemouth,Manchester City,L,Bournemouth
+0,0,2022-08-20,Bournemouth,Arsenal,L,Bournemouth
+0,0,2022-08-27,Bournemouth,Liverpool,L,Bournemouth
+0,0,2022-08-31,Bournemouth,Wolves,D,Bournemouth
+1,0,2022-09-03,Bournemouth,Nott'ham Forest,W,Bournemouth
+0,0,2022-09-17,Bournemouth,Newcastle Utd,D,Bournemouth
+0,0,2022-10-01,Bournemouth,Brentford,D,Bournemouth
+1,0,2022-10-08,Bournemouth,Leicester City,W,Bournemouth
+0,0,2022-10-15,Bournemouth,Fulham,D,Bournemouth
+0,0,2022-10-19,Bournemouth,Southampton,L,Bournemouth
+0,0,2022-10-24,Bournemouth,West Ham,L,Bournemouth
+0,0,2022-10-29,Bournemouth,Tottenham,L,Bournemouth
+0,0,2022-11-05,Bournemouth,Leeds United,L,Bournemouth
+1,0,2022-11-12,Bournemouth,Everton,W,Bournemouth
+0,1,2022-12-27,Bournemouth,Chelsea,L,Bournemouth
+0,1,2022-12-31,Bournemouth,Crystal Palace,L,Bournemouth
+0,0,2023-01-03,Bournemouth,Manchester Utd,L,Bournemouth
+0,0,2023-01-14,Bournemouth,Brentford,L,Bournemouth
+0,1,2023-01-21,Bournemouth,Nott'ham Forest,D,Bournemouth
+0,0,2023-02-04,Bournemouth,Brighton,L,Bournemouth
+0,0,2023-02-11,Bournemouth,Newcastle Utd,D,Bournemouth
+1,0,2023-02-18,Bournemouth,Wolves,W,Bournemouth
+0,0,2023-02-25,Bournemouth,Manchester City,L,Bournemouth
+0,0,2023-03-04,Bournemouth,Arsenal,L,Bournemouth
+1,0,2023-03-11,Bournemouth,Liverpool,W,Bournemouth
+0,0,2023-03-18,Bournemouth,Aston Villa,L,Bournemouth
+1,0,2023-04-01,Bournemouth,Fulham,W,Bournemouth
+0,0,2023-04-04,Bournemouth,Brighton,L,Bournemouth
+1,0,2023-04-08,Bournemouth,Leicester City,W,Bournemouth
+1,0,2023-04-15,Bournemouth,Tottenham,W,Bournemouth
+0,0,2023-04-23,Bournemouth,West Ham,L,Bournemouth
+1,1,2023-04-27,Bournemouth,Southampton,W,Bournemouth
+1,0,2023-04-30,Bournemouth,Leeds United,W,Bournemouth
+0,1,2023-05-06,Bournemouth,Chelsea,L,Bournemouth
+0,0,2023-05-13,Bournemouth,Crystal Palace,L,Bournemouth
+0,0,2023-05-20,Bournemouth,Manchester Utd,L,Bournemouth
+0,0,2023-05-28,Bournemouth,Everton,L,Bournemouth
+0,0,2023-08-12,Bournemouth,West Ham,D,Bournemouth
+0,0,2023-08-19,Bournemouth,Liverpool,L,Bournemouth
+0,0,2023-08-26,Bournemouth,Tottenham,L,Bournemouth
+0,0,2023-09-02,Bournemouth,Brentford,D,Bournemouth
+0,0,2023-09-17,Bournemouth,Chelsea,D,Bournemouth
+0,0,2023-09-24,Bournemouth,Brighton,L,Bournemouth
+0,0,2023-09-30,Bournemouth,Arsenal,L,Bournemouth
+0,0,2023-10-07,Bournemouth,Everton,L,Bournemouth
+0,0,2023-10-21,Bournemouth,Wolves,L,Bournemouth
+1,0,2023-10-28,Bournemouth,Burnley,W,Bournemouth
+0,0,2023-11-04,Bournemouth,Manchester City,L,Bournemouth
+1,0,2023-11-11,Bournemouth,Newcastle Utd,W,Bournemouth
+1,1,2023-11-25,Bournemouth,Sheffield Utd,W,Bournemouth
+0,1,2023-12-03,Bournemouth,Aston Villa,D,Bournemouth
+1,1,2023-12-06,Bournemouth,Crystal Palace,W,Bournemouth
+1,0,2023-12-09,Bournemouth,Manchester Utd,W,Bournemouth
+1,1,2023-12-23,Bournemouth,Nott'ham Forest,W,Bournemouth
+1,0,2023-12-26,Bournemouth,Fulham,W,Bournemouth
+0,0,2023-12-31,Bournemouth,Tottenham,L,Bournemouth
+0,0,2024-01-21,Bournemouth,Liverpool,L,Bournemouth
+0,0,2024-02-01,Bournemouth,West Ham,D,Bournemouth
+0,0,2024-02-04,Bournemouth,Nott'ham Forest,D,Bournemouth
+0,0,2024-02-10,Bournemouth,Fulham,L,Bournemouth
+0,0,2024-02-17,Bournemouth,Newcastle Utd,D,Bournemouth
+0,0,2024-02-24,Bournemouth,Manchester City,L,Bournemouth
+1,1,2024-03-03,Bournemouth,Burnley,W,Bournemouth
+0,1,2024-03-09,Bournemouth,Sheffield Utd,D,Bournemouth
+1,1,2024-03-13,Bournemouth,Luton Town,W,Bournemouth
+1,1,2024-03-30,Bournemouth,Everton,W,Bournemouth
+1,1,2024-04-02,Bournemouth,Crystal Palace,W,Bournemouth
+0,0,2024-04-06,Bournemouth,Luton Town,L,Bournemouth
+0,0,2024-04-13,Bournemouth,Manchester Utd,D,Bournemouth
+0,1,2024-04-21,Bournemouth,Aston Villa,L,Bournemouth
+1,0,2024-04-24,Bournemouth,Wolves,W,Bournemouth
+1,1,2024-04-28,Bournemouth,Brighton,W,Bournemouth
+0,1,2024-05-04,Bournemouth,Arsenal,L,Bournemouth
+0,1,2024-05-11,Bournemouth,Brentford,L,Bournemouth
+0,0,2024-05-19,Bournemouth,Chelsea,L,Bournemouth
+1,0,2022-01-02,Brentford,Aston Villa,W,Brentford
+0,0,2022-01-11,Brentford,Southampton,L,Brentford
+0,0,2022-01-16,Brentford,Liverpool,L,Brentford
+0,0,2022-01-19,Brentford,Manchester Utd,L,Brentford
+0,0,2022-01-22,Brentford,Wolves,L,Brentford
+0,0,2022-02-09,Brentford,Manchester City,L,Brentford
+0,0,2022-02-12,Brentford,Crystal Palace,D,Brentford
+0,0,2022-02-19,Brentford,Arsenal,L,Brentford
+0,0,2022-02-26,Brentford,Newcastle Utd,L,Brentford
+1,0,2022-03-05,Brentford,Norwich City,W,Brentford
+1,0,2022-03-12,Brentford,Burnley,W,Brentford
+0,0,2022-03-20,Brentford,Leicester City,L,Brentford
+1,0,2022-04-02,Brentford,Chelsea,W,Brentford
+1,1,2022-04-10,Brentford,West Ham,W,Brentford
+1,1,2022-04-16,Brentford,Watford,W,Brentford
+0,1,2022-04-23,Brentford,Tottenham,D,Brentford
+0,0,2022-05-02,Brentford,Manchester Utd,L,Brentford
+1,0,2022-05-07,Brentford,Southampton,W,Brentford
+1,0,2022-05-15,Brentford,Everton,W,Brentford
+0,0,2022-05-22,Brentford,Leeds United,L,Brentford
+0,0,2022-08-07,Brentford,Leicester City,D,Brentford
+1,0,2022-08-13,Brentford,Manchester Utd,W,Brentford
+0,0,2022-08-20,Brentford,Fulham,L,Brentford
+0,0,2022-08-27,Brentford,Everton,D,Brentford
+0,1,2022-08-30,Brentford,Crystal Palace,D,Brentford
+1,0,2022-09-03,Brentford,Leeds United,W,Brentford
+0,0,2022-09-18,Brentford,Arsenal,L,Brentford
+0,0,2022-10-01,Brentford,Bournemouth,D,Brentford
+0,0,2022-10-08,Brentford,Newcastle Utd,L,Brentford
+1,0,2022-10-14,Brentford,Brighton,W,Brentford
+0,0,2022-10-19,Brentford,Chelsea,D,Brentford
+0,0,2022-10-23,Brentford,Aston Villa,L,Brentford
+0,0,2022-10-29,Brentford,Wolves,D,Brentford
+0,0,2022-11-05,Brentford,Nott'ham Forest,D,Brentford
+1,0,2022-11-12,Brentford,Manchester City,W,Brentford
+0,1,2022-12-26,Brentford,Tottenham,D,Brentford
+1,0,2022-12-30,Brentford,West Ham,W,Brentford
+1,0,2023-01-02,Brentford,Liverpool,W,Brentford
+1,0,2023-01-14,Brentford,Bournemouth,W,Brentford
+0,0,2023-01-22,Brentford,Leeds United,D,Brentford
+1,1,2023-02-04,Brentford,Southampton,W,Brentford
+0,0,2023-02-11,Brentford,Arsenal,D,Brentford
+0,1,2023-02-18,Brentford,Crystal Palace,D,Brentford
+1,0,2023-03-06,Brentford,Fulham,W,Brentford
+0,0,2023-03-11,Brentford,Everton,L,Brentford
+1,0,2023-03-15,Brentford,Southampton,W,Brentford
+0,0,2023-03-18,Brentford,Leicester City,D,Brentford
+0,0,2023-04-01,Brentford,Brighton,D,Brentford
+0,0,2023-04-05,Brentford,Manchester Utd,L,Brentford
+0,0,2023-04-08,Brentford,Newcastle Utd,L,Brentford
+0,0,2023-04-15,Brentford,Wolves,L,Brentford
+0,0,2023-04-22,Brentford,Aston Villa,D,Brentford
+1,0,2023-04-26,Brentford,Chelsea,W,Brentford
+1,0,2023-04-29,Brentford,Nott'ham Forest,W,Brentford
+0,0,2023-05-06,Brentford,Liverpool,L,Brentford
+1,1,2023-05-14,Brentford,West Ham,W,Brentford
+1,1,2023-05-20,Brentford,Tottenham,W,Brentford
+1,0,2023-05-28,Brentford,Manchester City,W,Brentford
+0,1,2023-08-13,Brentford,Tottenham,D,Brentford
+1,0,2023-08-19,Brentford,Fulham,W,Brentford
+0,0,2023-08-26,Brentford,Crystal Palace,D,Brentford
+0,0,2023-09-02,Brentford,Bournemouth,D,Brentford
+0,0,2023-09-16,Brentford,Newcastle Utd,L,Brentford
+0,1,2023-09-23,Brentford,Everton,L,Brentford
+0,0,2023-10-01,Brentford,Nott'ham Forest,D,Brentford
+0,0,2023-10-07,Brentford,Manchester Utd,L,Brentford
+1,0,2023-10-21,Brentford,Burnley,W,Brentford
+1,1,2023-10-28,Brentford,Chelsea,W,Brentford
+1,1,2023-11-04,Brentford,West Ham,W,Brentford
+0,0,2023-11-12,Brentford,Liverpool,L,Brentford
+0,0,2023-11-25,Brentford,Arsenal,L,Brentford
+1,0,2023-12-02,Brentford,Luton Town,W,Brentford
+0,0,2023-12-06,Brentford,Brighton,L,Brentford
+0,0,2023-12-09,Brentford,Sheffield Utd,L,Brentford
+0,1,2023-12-17,Brentford,Aston Villa,L,Brentford
+0,0,2023-12-27,Brentford,Wolves,L,Brentford
+0,0,2023-12-30,Brentford,Crystal Palace,L,Brentford
+1,0,2024-01-20,Brentford,Nott'ham Forest,W,Brentford
+0,0,2024-01-31,Brentford,Tottenham,L,Brentford
+0,0,2024-02-05,Brentford,Manchester City,L,Brentford
+1,0,2024-02-10,Brentford,Wolves,W,Brentford
+0,0,2024-02-17,Brentford,Liverpool,L,Brentford
+0,0,2024-02-20,Brentford,Manchester City,L,Brentford
+0,0,2024-02-26,Brentford,West Ham,L,Brentford
+0,0,2024-03-02,Brentford,Chelsea,D,Brentford
+0,0,2024-03-09,Brentford,Arsenal,L,Brentford
+0,0,2024-03-16,Brentford,Burnley,L,Brentford
+0,0,2024-03-30,Brentford,Manchester Utd,D,Brentford
+0,1,2024-04-03,Brentford,Brighton,D,Brentford
+0,1,2024-04-06,Brentford,Aston Villa,D,Brentford
+1,1,2024-04-13,Brentford,Sheffield Utd,W,Brentford
+1,0,2024-04-20,Brentford,Luton Town,W,Brentford
+0,1,2024-04-27,Brentford,Everton,L,Brentford
+0,0,2024-05-04,Brentford,Fulham,D,Brentford
+1,0,2024-05-11,Brentford,Bournemouth,W,Brentford
+0,0,2024-05-19,Brentford,Newcastle Utd,L,Brentford
+1,0,2022-01-02,Brighton and Hove Albion,Everton,W,Brighton
+0,1,2022-01-14,Brighton and Hove Albion,Crystal Palace,D,Brighton
+0,1,2022-01-18,Brighton and Hove Albion,Chelsea,D,Brighton
+0,0,2022-01-23,Brighton and Hove Albion,Leicester City,D,Brighton
+1,0,2022-02-12,Brighton and Hove Albion,Watford,W,Brighton
+0,0,2022-02-15,Brighton and Hove Albion,Manchester Utd,L,Brighton
+0,0,2022-02-19,Brighton and Hove Albion,Burnley,L,Brighton
+0,0,2022-02-26,Brighton and Hove Albion,Aston Villa,L,Brighton
+0,0,2022-03-05,Brighton and Hove Albion,Newcastle Utd,L,Brighton
+0,0,2022-03-12,Brighton and Hove Albion,Liverpool,L,Brighton
+0,0,2022-03-16,Brighton and Hove Albion,Tottenham,L,Brighton
+0,0,2022-04-02,Brighton and Hove Albion,Norwich City,D,Brighton
+1,0,2022-04-09,Brighton and Hove Albion,Arsenal,W,Brighton
+1,0,2022-04-16,Brighton and Hove Albion,Tottenham,W,Brighton
+0,0,2022-04-20,Brighton and Hove Albion,Manchester City,L,Brighton
+0,0,2022-04-24,Brighton and Hove Albion,Southampton,D,Brighton
+1,0,2022-04-30,Brighton and Hove Albion,Wolves,W,Brighton
+1,0,2022-05-07,Brighton and Hove Albion,Manchester Utd,W,Brighton
+0,1,2022-05-15,Brighton and Hove Albion,Leeds United,D,Brighton
+1,1,2022-05-22,Brighton and Hove Albion,West Ham,W,Brighton
+1,1,2022-08-07,Brighton and Hove Albion,Manchester Utd,W,Brighton
+0,1,2022-08-13,Brighton and Hove Albion,Newcastle Utd,D,Brighton
+1,1,2022-08-21,Brighton and Hove Albion,West Ham,W,Brighton
+1,0,2022-08-27,Brighton and Hove Albion,Leeds United,W,Brighton
+0,0,2022-08-30,Brighton and Hove Albion,Fulham,L,Brighton
+1,0,2022-09-04,Brighton and Hove Albion,Leicester City,W,Brighton
+0,0,2022-10-01,Brighton and Hove Albion,Liverpool,D,Brighton
+0,1,2022-10-08,Brighton and Hove Albion,Tottenham,L,Brighton
+0,1,2022-10-14,Brighton and Hove Albion,Brentford,L,Brighton
+0,1,2022-10-18,Brighton and Hove Albion,Nott'ham Forest,D,Brighton
+0,0,2022-10-22,Brighton and Hove Albion,Manchester City,L,Brighton
+1,0,2022-10-29,Brighton and Hove Albion,Chelsea,W,Brighton
+1,1,2022-11-05,Brighton and Hove Albion,Wolves,W,Brighton
+0,1,2022-11-13,Brighton and Hove Albion,Aston Villa,L,Brighton
+1,0,2022-12-26,Brighton and Hove Albion,Southampton,W,Brighton
+0,0,2022-12-31,Brighton and Hove Albion,Arsenal,L,Brighton
+1,0,2023-01-03,Brighton and Hove Albion,Everton,W,Brighton
+1,0,2023-01-14,Brighton and Hove Albion,Liverpool,W,Brighton
+0,0,2023-01-21,Brighton and Hove Albion,Leicester City,D,Brighton
+1,1,2023-02-04,Brighton and Hove Albion,Bournemouth,W,Brighton
+0,1,2023-02-11,Brighton and Hove Albion,Crystal Palace,D,Brighton
+0,1,2023-02-18,Brighton and Hove Albion,Fulham,L,Brighton
+1,1,2023-03-04,Brighton and Hove Albion,West Ham,W,Brighton
+0,1,2023-03-11,Brighton and Hove Albion,Leeds United,D,Brighton
+1,1,2023-03-15,Brighton and Hove Albion,Crystal Palace,W,Brighton
+0,1,2023-04-01,Brighton and Hove Albion,Brentford,D,Brighton
+1,1,2023-04-04,Brighton and Hove Albion,Bournemouth,W,Brighton
+0,0,2023-04-08,Brighton and Hove Albion,Tottenham,L,Brighton
+1,1,2023-04-15,Brighton and Hove Albion,Chelsea,W,Brighton
+0,1,2023-04-26,Brighton and Hove Albion,Nott'ham Forest,L,Brighton
+1,1,2023-04-29,Brighton and Hove Albion,Wolves,W,Brighton
+1,0,2023-05-04,Brighton and Hove Albion,Manchester Utd,W,Brighton
+0,1,2023-05-08,Brighton and Hove Albion,Everton,L,Brighton
+1,1,2023-05-14,Brighton and Hove Albion,Arsenal,W,Brighton
+0,1,2023-05-18,Brighton and Hove Albion,Newcastle Utd,L,Brighton
+1,0,2023-05-21,Brighton and Hove Albion,Southampton,W,Brighton
+0,0,2023-05-24,Brighton and Hove Albion,Manchester City,D,Brighton
+0,1,2023-05-28,Brighton and Hove Albion,Aston Villa,L,Brighton
+1,0,2023-08-12,Brighton and Hove Albion,Luton Town,W,Brighton
+1,1,2023-08-19,Brighton and Hove Albion,Wolves,W,Brighton
+0,1,2023-08-26,Brighton and Hove Albion,West Ham,L,Brighton
+1,1,2023-09-02,Brighton and Hove Albion,Newcastle Utd,W,Brighton
+1,0,2023-09-16,Brighton and Hove Albion,Manchester Utd,W,Brighton
+1,1,2023-09-24,Brighton and Hove Albion,Bournemouth,W,Brighton
+0,1,2023-09-30,Brighton and Hove Albion,Aston Villa,L,Brighton
+0,0,2023-10-08,Brighton and Hove Albion,Liverpool,D,Brighton
+0,0,2023-10-21,Brighton and Hove Albion,Manchester City,L,Brighton
+0,0,2023-10-29,Brighton and Hove Albion,Fulham,D,Brighton
+0,0,2023-11-04,Brighton and Hove Albion,Everton,D,Brighton
+0,0,2023-11-12,Brighton and Hove Albion,Sheffield Utd,D,Brighton
+1,0,2023-11-25,Brighton and Hove Albion,Nott'ham Forest,W,Brighton
+0,0,2023-12-03,Brighton and Hove Albion,Chelsea,L,Brighton
+1,1,2023-12-06,Brighton and Hove Albion,Brentford,W,Brighton
+0,1,2023-12-09,Brighton and Hove Albion,Burnley,D,Brighton
+0,1,2023-12-17,Brighton and Hove Albion,Arsenal,L,Brighton
+0,0,2023-12-21,Brighton and Hove Albion,Crystal Palace,D,Brighton
+1,1,2023-12-28,Brighton and Hove Albion,Tottenham,W,Brighton
+0,0,2024-01-02,Brighton and Hove Albion,West Ham,D,Brighton
+0,1,2024-01-22,Brighton and Hove Albion,Wolves,D,Brighton
+0,1,2024-01-30,Brighton and Hove Albion,Luton Town,L,Brighton
+1,0,2024-02-03,Brighton and Hove Albion,Crystal Palace,W,Brighton
+0,0,2024-02-10,Brighton and Hove Albion,Tottenham,L,Brighton
+1,0,2024-02-18,Brighton and Hove Albion,Sheffield Utd,W,Brighton
+0,0,2024-02-24,Brighton and Hove Albion,Everton,D,Brighton
+0,0,2024-03-02,Brighton and Hove Albion,Fulham,L,Brighton
+1,1,2024-03-10,Brighton and Hove Albion,Nott'ham Forest,W,Brighton
+0,0,2024-03-31,Brighton and Hove Albion,Liverpool,L,Brighton
+0,0,2024-04-03,Brighton and Hove Albion,Brentford,D,Brighton
+0,0,2024-04-06,Brighton and Hove Albion,Arsenal,L,Brighton
+0,0,2024-04-13,Brighton and Hove Albion,Burnley,D,Brighton
+0,0,2024-04-25,Brighton and Hove Albion,Manchester City,L,Brighton
+0,0,2024-04-28,Brighton and Hove Albion,Bournemouth,L,Brighton
+1,0,2024-05-05,Brighton and Hove Albion,Aston Villa,W,Brighton
+0,0,2024-05-11,Brighton and Hove Albion,Newcastle Utd,D,Brighton
+0,0,2024-05-15,Brighton and Hove Albion,Chelsea,L,Brighton
+0,0,2024-05-19,Brighton and Hove Albion,Manchester Utd,L,Brighton
+0,0,2022-01-02,Burnley,Leeds United,L,Burnley
+0,0,2022-01-23,Burnley,Arsenal,D,Burnley
+0,0,2022-02-05,Burnley,Watford,D,Burnley
+0,0,2022-02-08,Burnley,Manchester Utd,D,Burnley
+0,0,2022-02-13,Burnley,Liverpool,L,Burnley
+1,0,2022-02-19,Burnley,Brighton,W,Burnley
+1,0,2022-02-23,Burnley,Tottenham,W,Burnley
+0,0,2022-02-26,Burnley,Crystal Palace,D,Burnley
+0,0,2022-03-01,Burnley,Leicester City,L,Burnley
+0,0,2022-03-05,Burnley,Chelsea,L,Burnley
+0,0,2022-03-12,Burnley,Brentford,L,Burnley
+0,0,2022-04-02,Burnley,Manchester City,L,Burnley
+1,0,2022-04-06,Burnley,Everton,W,Burnley
+0,0,2022-04-10,Burnley,Norwich City,L,Burnley
+0,0,2022-04-17,Burnley,West Ham,D,Burnley
+1,0,2022-04-21,Burnley,Southampton,W,Burnley
+1,0,2022-04-24,Burnley,Wolves,W,Burnley
+1,0,2022-04-30,Burnley,Watford,W,Burnley
+0,1,2022-05-07,Burnley,Aston Villa,L,Burnley
+0,1,2022-05-15,Burnley,Tottenham,L,Burnley
+0,0,2022-05-19,Burnley,Aston Villa,D,Burnley
+0,0,2022-05-22,Burnley,Newcastle Utd,L,Burnley
+0,0,2023-08-11,Burnley,Manchester City,L,Burnley
+0,0,2023-08-27,Burnley,Aston Villa,L,Burnley
+0,0,2023-09-02,Burnley,Tottenham,L,Burnley
+0,0,2023-09-18,Burnley,Nott'ham Forest,D,Burnley
+0,0,2023-09-23,Burnley,Manchester Utd,L,Burnley
+0,0,2023-09-30,Burnley,Newcastle Utd,L,Burnley
+1,0,2023-10-03,Burnley,Luton Town,W,Burnley
+0,0,2023-10-07,Burnley,Chelsea,L,Burnley
+0,0,2023-10-21,Burnley,Brentford,L,Burnley
+0,0,2023-10-28,Burnley,Bournemouth,L,Burnley
+0,0,2023-11-04,Burnley,Crystal Palace,L,Burnley
+0,0,2023-11-11,Burnley,Arsenal,L,Burnley
+0,0,2023-11-25,Burnley,West Ham,L,Burnley
+1,0,2023-12-02,Burnley,Sheffield Utd,W,Burnley
+0,1,2023-12-05,Burnley,Wolves,L,Burnley
+0,0,2023-12-09,Burnley,Brighton,D,Burnley
+0,0,2023-12-16,Burnley,Everton,L,Burnley
+1,0,2023-12-23,Burnley,Fulham,W,Burnley
+0,0,2023-12-26,Burnley,Liverpool,L,Burnley
+0,0,2023-12-30,Burnley,Aston Villa,L,Burnley
+0,0,2024-01-12,Burnley,Luton Town,D,Burnley
+0,0,2024-01-31,Burnley,Manchester City,L,Burnley
+0,0,2024-02-03,Burnley,Fulham,D,Burnley
+0,0,2024-02-10,Burnley,Liverpool,L,Burnley
+0,0,2024-02-17,Burnley,Arsenal,L,Burnley
+0,0,2024-02-24,Burnley,Crystal Palace,L,Burnley
+0,0,2024-03-03,Burnley,Bournemouth,L,Burnley
+0,0,2024-03-10,Burnley,West Ham,D,Burnley
+1,1,2024-03-16,Burnley,Brentford,W,Burnley
+0,0,2024-03-30,Burnley,Chelsea,D,Burnley
+0,1,2024-04-02,Burnley,Wolves,D,Burnley
+0,0,2024-04-06,Burnley,Everton,L,Burnley
+0,0,2024-04-13,Burnley,Brighton,D,Burnley
+1,0,2024-04-20,Burnley,Sheffield Utd,W,Burnley
+0,0,2024-04-27,Burnley,Manchester Utd,D,Burnley
+0,1,2024-05-04,Burnley,Newcastle Utd,L,Burnley
+0,0,2024-05-11,Burnley,Tottenham,L,Burnley
+0,0,2024-05-19,Burnley,Nott'ham Forest,L,Burnley
+0,0,2022-01-02,Chelsea,Liverpool,D,Chelsea
+0,0,2022-01-15,Chelsea,Manchester City,L,Chelsea
+0,0,2022-01-18,Chelsea,Brighton,D,Chelsea
+1,0,2022-01-23,Chelsea,Tottenham,W,Chelsea
+1,0,2022-02-19,Chelsea,Crystal Palace,W,Chelsea
+1,0,2022-03-05,Chelsea,Burnley,W,Chelsea
+1,1,2022-03-10,Chelsea,Norwich City,W,Chelsea
+1,0,2022-03-13,Chelsea,Newcastle Utd,W,Chelsea
+0,1,2022-04-02,Chelsea,Brentford,L,Chelsea
+1,1,2022-04-09,Chelsea,Southampton,W,Chelsea
+0,0,2022-04-20,Chelsea,Arsenal,L,Chelsea
+1,1,2022-04-24,Chelsea,West Ham,W,Chelsea
+0,1,2022-04-28,Chelsea,Manchester Utd,D,Chelsea
+0,1,2022-05-01,Chelsea,Everton,L,Chelsea
+0,0,2022-05-07,Chelsea,Wolves,D,Chelsea
+1,0,2022-05-11,Chelsea,Leeds United,W,Chelsea
+0,0,2022-05-19,Chelsea,Leicester City,D,Chelsea
+1,1,2022-05-22,Chelsea,Watford,W,Chelsea
+1,1,2022-08-06,Chelsea,Everton,W,Chelsea
+0,1,2022-08-14,Chelsea,Tottenham,D,Chelsea
+0,0,2022-08-21,Chelsea,Leeds United,L,Chelsea
+1,0,2022-08-27,Chelsea,Leicester City,W,Chelsea
+0,0,2022-08-30,Chelsea,Southampton,L,Chelsea
+1,0,2022-09-03,Chelsea,West Ham,W,Chelsea
+1,0,2022-10-01,Chelsea,Crystal Palace,W,Chelsea
+1,1,2022-10-08,Chelsea,Wolves,W,Chelsea
+1,0,2022-10-16,Chelsea,Aston Villa,W,Chelsea
+0,0,2022-10-19,Chelsea,Brentford,D,Chelsea
+0,1,2022-10-22,Chelsea,Manchester Utd,D,Chelsea
+0,0,2022-10-29,Chelsea,Brighton,L,Chelsea
+0,0,2022-11-06,Chelsea,Arsenal,L,Chelsea
+0,0,2022-11-12,Chelsea,Newcastle Utd,L,Chelsea
+1,0,2022-12-27,Chelsea,Bournemouth,W,Chelsea
+0,0,2023-01-01,Chelsea,Nott'ham Forest,D,Chelsea
+0,0,2023-01-05,Chelsea,Manchester City,L,Chelsea
+0,0,2023-01-12,Chelsea,Fulham,L,Chelsea
+1,0,2023-01-15,Chelsea,Crystal Palace,W,Chelsea
+0,0,2023-01-21,Chelsea,Liverpool,D,Chelsea
+0,1,2023-02-03,Chelsea,Fulham,D,Chelsea
+0,0,2023-02-11,Chelsea,West Ham,D,Chelsea
+0,0,2023-02-18,Chelsea,Southampton,L,Chelsea
+0,1,2023-02-26,Chelsea,Tottenham,L,Chelsea
+1,0,2023-03-04,Chelsea,Leeds United,W,Chelsea
+1,0,2023-03-11,Chelsea,Leicester City,W,Chelsea
+0,0,2023-03-18,Chelsea,Everton,D,Chelsea
+0,1,2023-04-01,Chelsea,Aston Villa,L,Chelsea
+0,1,2023-04-04,Chelsea,Liverpool,D,Chelsea
+0,0,2023-04-08,Chelsea,Wolves,L,Chelsea
+0,0,2023-04-15,Chelsea,Brighton,L,Chelsea
+0,0,2023-04-26,Chelsea,Brentford,L,Chelsea
+0,0,2023-05-02,Chelsea,Arsenal,L,Chelsea
+1,0,2023-05-06,Chelsea,Bournemouth,W,Chelsea
+0,0,2023-05-13,Chelsea,Nott'ham Forest,D,Chelsea
+0,0,2023-05-21,Chelsea,Manchester City,L,Chelsea
+0,0,2023-05-25,Chelsea,Manchester Utd,L,Chelsea
+0,1,2023-05-28,Chelsea,Newcastle Utd,D,Chelsea
+0,0,2023-08-13,Chelsea,Liverpool,D,Chelsea
+0,0,2023-08-20,Chelsea,West Ham,L,Chelsea
+1,0,2023-08-25,Chelsea,Luton Town,W,Chelsea
+0,1,2023-09-02,Chelsea,Nott'ham Forest,L,Chelsea
+0,1,2023-09-17,Chelsea,Bournemouth,D,Chelsea
+0,1,2023-09-24,Chelsea,Aston Villa,L,Chelsea
+1,0,2023-10-02,Chelsea,Fulham,W,Chelsea
+1,0,2023-10-07,Chelsea,Burnley,W,Chelsea
+0,0,2023-10-21,Chelsea,Arsenal,D,Chelsea
+0,0,2023-10-28,Chelsea,Brentford,L,Chelsea
+1,0,2023-11-06,Chelsea,Tottenham,W,Chelsea
+0,0,2023-11-12,Chelsea,Manchester City,D,Chelsea
+0,0,2023-11-25,Chelsea,Newcastle Utd,L,Chelsea
+1,0,2023-12-03,Chelsea,Brighton,W,Chelsea
+0,0,2023-12-06,Chelsea,Manchester Utd,L,Chelsea
+0,0,2023-12-10,Chelsea,Everton,L,Chelsea
+1,0,2023-12-16,Chelsea,Sheffield Utd,W,Chelsea
+0,0,2023-12-24,Chelsea,Wolves,L,Chelsea
+1,0,2023-12-27,Chelsea,Crystal Palace,W,Chelsea
+1,0,2023-12-30,Chelsea,Luton Town,W,Chelsea
+1,0,2024-01-13,Chelsea,Fulham,W,Chelsea
+0,0,2024-01-31,Chelsea,Liverpool,L,Chelsea
+0,0,2024-02-04,Chelsea,Wolves,L,Chelsea
+1,0,2024-02-12,Chelsea,Crystal Palace,W,Chelsea
+0,0,2024-02-17,Chelsea,Manchester City,D,Chelsea
+0,0,2024-03-02,Chelsea,Brentford,D,Chelsea
+1,0,2024-03-11,Chelsea,Newcastle Utd,W,Chelsea
+0,1,2024-03-30,Chelsea,Burnley,D,Chelsea
+1,1,2024-04-04,Chelsea,Manchester Utd,W,Chelsea
+0,0,2024-04-07,Chelsea,Sheffield Utd,D,Chelsea
+1,1,2024-04-15,Chelsea,Everton,W,Chelsea
+0,1,2024-04-23,Chelsea,Arsenal,L,Chelsea
+0,0,2024-04-27,Chelsea,Aston Villa,D,Chelsea
+1,0,2024-05-02,Chelsea,Tottenham,W,Chelsea
+1,0,2024-05-05,Chelsea,West Ham,W,Chelsea
+1,1,2024-05-11,Chelsea,Nott'ham Forest,W,Chelsea
+1,1,2024-05-15,Chelsea,Brighton,W,Chelsea
+1,1,2024-05-19,Chelsea,Bournemouth,W,Chelsea
+0,0,2022-01-14,Crystal Palace,Brighton,D,Crystal Palace
+0,0,2022-01-23,Crystal Palace,Liverpool,L,Crystal Palace
+0,0,2022-02-09,Crystal Palace,Norwich City,D,Crystal Palace
+0,0,2022-02-12,Crystal Palace,Brentford,D,Crystal Palace
+0,0,2022-02-19,Crystal Palace,Chelsea,L,Crystal Palace
+1,0,2022-02-23,Crystal Palace,Watford,W,Crystal Palace
+0,0,2022-02-26,Crystal Palace,Burnley,D,Crystal Palace
+1,0,2022-03-05,Crystal Palace,Wolves,W,Crystal Palace
+0,0,2022-03-14,Crystal Palace,Manchester City,D,Crystal Palace
+1,1,2022-04-04,Crystal Palace,Arsenal,W,Crystal Palace
+0,0,2022-04-10,Crystal Palace,Leicester City,L,Crystal Palace
+0,0,2022-04-20,Crystal Palace,Newcastle Utd,L,Crystal Palace
+0,1,2022-04-25,Crystal Palace,Leeds United,D,Crystal Palace
+1,0,2022-04-30,Crystal Palace,Southampton,W,Crystal Palace
+1,0,2022-05-07,Crystal Palace,Watford,W,Crystal Palace
+0,1,2022-05-15,Crystal Palace,Aston Villa,D,Crystal Palace
+0,0,2022-05-19,Crystal Palace,Everton,L,Crystal Palace
+1,0,2022-05-22,Crystal Palace,Manchester Utd,W,Crystal Palace
+0,0,2022-08-05,Crystal Palace,Arsenal,L,Crystal Palace
+0,0,2022-08-15,Crystal Palace,Liverpool,D,Crystal Palace
+1,0,2022-08-20,Crystal Palace,Aston Villa,W,Crystal Palace
+0,0,2022-08-27,Crystal Palace,Manchester City,L,Crystal Palace
+0,0,2022-08-30,Crystal Palace,Brentford,D,Crystal Palace
+0,0,2022-09-03,Crystal Palace,Newcastle Utd,D,Crystal Palace
+0,0,2022-10-01,Crystal Palace,Chelsea,L,Crystal Palace
+1,0,2022-10-09,Crystal Palace,Leeds United,W,Crystal Palace
+0,0,2022-10-15,Crystal Palace,Leicester City,D,Crystal Palace
+1,0,2022-10-18,Crystal Palace,Wolves,W,Crystal Palace
+0,0,2022-10-22,Crystal Palace,Everton,L,Crystal Palace
+1,0,2022-10-29,Crystal Palace,Southampton,W,Crystal Palace
+1,0,2022-11-06,Crystal Palace,West Ham,W,Crystal Palace
+0,0,2022-11-12,Crystal Palace,Nott'ham Forest,L,Crystal Palace
+0,0,2022-12-26,Crystal Palace,Fulham,L,Crystal Palace
+1,0,2022-12-31,Crystal Palace,Bournemouth,W,Crystal Palace
+0,0,2023-01-04,Crystal Palace,Tottenham,L,Crystal Palace
+0,0,2023-01-15,Crystal Palace,Chelsea,L,Crystal Palace
+0,0,2023-01-18,Crystal Palace,Manchester Utd,D,Crystal Palace
+0,0,2023-01-21,Crystal Palace,Newcastle Utd,D,Crystal Palace
+0,0,2023-02-04,Crystal Palace,Manchester Utd,L,Crystal Palace
+0,0,2023-02-11,Crystal Palace,Brighton,D,Crystal Palace
+0,0,2023-02-18,Crystal Palace,Brentford,D,Crystal Palace
+0,0,2023-02-25,Crystal Palace,Liverpool,D,Crystal Palace
+0,0,2023-03-04,Crystal Palace,Aston Villa,L,Crystal Palace
+0,0,2023-03-11,Crystal Palace,Manchester City,L,Crystal Palace
+0,0,2023-03-15,Crystal Palace,Brighton,L,Crystal Palace
+0,0,2023-03-19,Crystal Palace,Arsenal,L,Crystal Palace
+1,0,2023-04-01,Crystal Palace,Leicester City,W,Crystal Palace
+1,0,2023-04-09,Crystal Palace,Leeds United,W,Crystal Palace
+1,0,2023-04-15,Crystal Palace,Southampton,W,Crystal Palace
+0,1,2023-04-22,Crystal Palace,Everton,D,Crystal Palace
+0,0,2023-04-25,Crystal Palace,Wolves,L,Crystal Palace
+1,1,2023-04-29,Crystal Palace,West Ham,W,Crystal Palace
+0,0,2023-05-06,Crystal Palace,Tottenham,L,Crystal Palace
+1,0,2023-05-13,Crystal Palace,Bournemouth,W,Crystal Palace
+0,0,2023-05-20,Crystal Palace,Fulham,D,Crystal Palace
+0,1,2023-05-28,Crystal Palace,Nott'ham Forest,D,Crystal Palace
+1,0,2023-08-12,Crystal Palace,Sheffield Utd,W,Crystal Palace
+0,0,2023-08-21,Crystal Palace,Arsenal,L,Crystal Palace
+0,0,2023-08-26,Crystal Palace,Brentford,D,Crystal Palace
+1,0,2023-09-03,Crystal Palace,Wolves,W,Crystal Palace
+0,1,2023-09-16,Crystal Palace,Aston Villa,L,Crystal Palace
+0,1,2023-09-23,Crystal Palace,Fulham,D,Crystal Palace
+1,0,2023-09-30,Crystal Palace,Manchester Utd,W,Crystal Palace
+0,1,2023-10-07,Crystal Palace,Nott'ham Forest,D,Crystal Palace
+0,0,2023-10-21,Crystal Palace,Newcastle Utd,L,Crystal Palace
+0,0,2023-10-27,Crystal Palace,Tottenham,L,Crystal Palace
+1,0,2023-11-04,Crystal Palace,Burnley,W,Crystal Palace
+0,0,2023-11-11,Crystal Palace,Everton,L,Crystal Palace
+0,0,2023-11-25,Crystal Palace,Luton Town,L,Crystal Palace
+0,0,2023-12-03,Crystal Palace,West Ham,D,Crystal Palace
+0,0,2023-12-06,Crystal Palace,Bournemouth,L,Crystal Palace
+0,0,2023-12-09,Crystal Palace,Liverpool,L,Crystal Palace
+0,0,2023-12-16,Crystal Palace,Manchester City,D,Crystal Palace
+0,0,2023-12-21,Crystal Palace,Brighton,D,Crystal Palace
+0,0,2023-12-27,Crystal Palace,Chelsea,L,Crystal Palace
+1,0,2023-12-30,Crystal Palace,Brentford,W,Crystal Palace
+0,0,2024-01-20,Crystal Palace,Arsenal,L,Crystal Palace
+1,0,2024-01-30,Crystal Palace,Sheffield Utd,W,Crystal Palace
+0,0,2024-02-03,Crystal Palace,Brighton,L,Crystal Palace
+0,0,2024-02-12,Crystal Palace,Chelsea,L,Crystal Palace
+0,0,2024-02-19,Crystal Palace,Everton,D,Crystal Palace
+1,0,2024-02-24,Crystal Palace,Burnley,W,Crystal Palace
+0,0,2024-03-02,Crystal Palace,Tottenham,L,Crystal Palace
+0,0,2024-03-09,Crystal Palace,Luton Town,D,Crystal Palace
+0,0,2024-03-30,Crystal Palace,Nott'ham Forest,D,Crystal Palace
+0,0,2024-04-02,Crystal Palace,Bournemouth,L,Crystal Palace
+0,0,2024-04-06,Crystal Palace,Manchester City,L,Crystal Palace
+1,0,2024-04-14,Crystal Palace,Liverpool,W,Crystal Palace
+1,0,2024-04-21,Crystal Palace,West Ham,W,Crystal Palace
+1,1,2024-04-24,Crystal Palace,Newcastle Utd,W,Crystal Palace
+0,1,2024-04-27,Crystal Palace,Fulham,D,Crystal Palace
+1,1,2024-05-06,Crystal Palace,Manchester Utd,W,Crystal Palace
+1,1,2024-05-11,Crystal Palace,Wolves,W,Crystal Palace
+1,1,2024-05-19,Crystal Palace,Aston Villa,W,Crystal Palace
+0,0,2022-01-02,Everton,Brighton,L,Everton
+0,0,2022-01-15,Everton,Norwich City,L,Everton
+0,0,2022-01-22,Everton,Aston Villa,L,Everton
+0,0,2022-02-08,Everton,Newcastle Utd,L,Everton
+1,0,2022-02-12,Everton,Leeds United,W,Everton
+0,1,2022-02-19,Everton,Southampton,L,Everton
+0,0,2022-02-26,Everton,Manchester City,L,Everton
+0,0,2022-03-07,Everton,Tottenham,L,Everton
+0,0,2022-03-13,Everton,Wolves,L,Everton
+1,0,2022-03-17,Everton,Newcastle Utd,W,Everton
+0,0,2022-04-03,Everton,West Ham,L,Everton
+0,0,2022-04-06,Everton,Burnley,L,Everton
+1,0,2022-04-09,Everton,Manchester Utd,W,Everton
+0,0,2022-04-20,Everton,Leicester City,D,Everton
+0,0,2022-04-24,Everton,Liverpool,L,Everton
+1,0,2022-05-01,Everton,Chelsea,W,Everton
+1,0,2022-05-08,Everton,Leicester City,W,Everton
+0,0,2022-05-11,Everton,Watford,D,Everton
+0,0,2022-05-15,Everton,Brentford,L,Everton
+1,0,2022-05-19,Everton,Crystal Palace,W,Everton
+0,0,2022-05-22,Everton,Arsenal,L,Everton
+0,0,2022-08-06,Everton,Chelsea,L,Everton
+0,0,2022-08-13,Everton,Aston Villa,L,Everton
+0,0,2022-08-20,Everton,Nott'ham Forest,D,Everton
+0,0,2022-08-27,Everton,Brentford,D,Everton
+0,0,2022-08-30,Everton,Leeds United,D,Everton
+0,0,2022-09-03,Everton,Liverpool,D,Everton
+1,0,2022-09-18,Everton,West Ham,W,Everton
+1,0,2022-10-01,Everton,Southampton,W,Everton
+0,0,2022-10-09,Everton,Manchester Utd,L,Everton
+0,0,2022-10-15,Everton,Tottenham,L,Everton
+0,0,2022-10-19,Everton,Newcastle Utd,L,Everton
+1,0,2022-10-22,Everton,Crystal Palace,W,Everton
+0,0,2022-10-29,Everton,Fulham,D,Everton
+0,0,2022-11-05,Everton,Leicester City,L,Everton
+0,0,2022-11-12,Everton,Bournemouth,L,Everton
+0,0,2022-12-26,Everton,Wolves,L,Everton
+0,0,2022-12-31,Everton,Manchester City,D,Everton
+0,0,2023-01-03,Everton,Brighton,L,Everton
+0,0,2023-01-14,Everton,Southampton,L,Everton
+0,0,2023-01-21,Everton,West Ham,L,Everton
+1,0,2023-02-04,Everton,Arsenal,W,Everton
+0,0,2023-02-13,Everton,Liverpool,L,Everton
+1,0,2023-02-18,Everton,Leeds United,W,Everton
+0,0,2023-02-25,Everton,Aston Villa,L,Everton
+0,0,2023-03-01,Everton,Arsenal,L,Everton
+0,0,2023-03-05,Everton,Nott'ham Forest,D,Everton
+1,0,2023-03-11,Everton,Brentford,W,Everton
+0,0,2023-03-18,Everton,Chelsea,D,Everton
+0,1,2023-04-03,Everton,Tottenham,D,Everton
+0,0,2023-04-08,Everton,Manchester Utd,L,Everton
+0,0,2023-04-15,Everton,Fulham,L,Everton
+0,0,2023-04-22,Everton,Crystal Palace,D,Everton
+0,0,2023-04-27,Everton,Newcastle Utd,L,Everton
+0,0,2023-05-01,Everton,Leicester City,D,Everton
+1,0,2023-05-08,Everton,Brighton,W,Everton
+0,0,2023-05-14,Everton,Manchester City,L,Everton
+0,0,2023-05-20,Everton,Wolves,D,Everton
+1,0,2023-05-28,Everton,Bournemouth,W,Everton
+0,0,2023-08-12,Everton,Fulham,L,Everton
+0,1,2023-08-20,Everton,Aston Villa,L,Everton
+0,0,2023-08-26,Everton,Wolves,L,Everton
+0,0,2023-09-02,Everton,Sheffield Utd,D,Everton
+0,0,2023-09-17,Everton,Arsenal,L,Everton
+1,0,2023-09-23,Everton,Brentford,W,Everton
+0,0,2023-09-30,Everton,Luton Town,L,Everton
+1,1,2023-10-07,Everton,Bournemouth,W,Everton
+0,0,2023-10-21,Everton,Liverpool,L,Everton
+1,0,2023-10-29,Everton,West Ham,W,Everton
+0,0,2023-11-04,Everton,Brighton,D,Everton
+1,0,2023-11-11,Everton,Crystal Palace,W,Everton
+0,0,2023-11-26,Everton,Manchester Utd,L,Everton
+1,0,2023-12-02,Everton,Nott'ham Forest,W,Everton
+1,0,2023-12-07,Everton,Newcastle Utd,W,Everton
+1,1,2023-12-10,Everton,Chelsea,W,Everton
+1,1,2023-12-16,Everton,Burnley,W,Everton
+0,1,2023-12-23,Everton,Tottenham,L,Everton
+0,0,2023-12-27,Everton,Manchester City,L,Everton
+0,0,2023-12-30,Everton,Wolves,L,Everton
+0,0,2024-01-14,Everton,Aston Villa,D,Everton
+0,0,2024-01-30,Everton,Fulham,D,Everton
+0,1,2024-02-03,Everton,Tottenham,D,Everton
+0,0,2024-02-10,Everton,Manchester City,L,Everton
+0,0,2024-02-19,Everton,Crystal Palace,D,Everton
+0,0,2024-02-24,Everton,Brighton,D,Everton
+0,0,2024-03-02,Everton,West Ham,L,Everton
+0,0,2024-03-09,Everton,Manchester Utd,L,Everton
+0,0,2024-03-30,Everton,Bournemouth,L,Everton
+0,0,2024-04-02,Everton,Newcastle Utd,D,Everton
+1,0,2024-04-06,Everton,Burnley,W,Everton
+0,0,2024-04-15,Everton,Chelsea,L,Everton
+1,0,2024-04-21,Everton,Nott'ham Forest,W,Everton
+1,0,2024-04-24,Everton,Liverpool,W,Everton
+1,0,2024-04-27,Everton,Brentford,W,Everton
+0,1,2024-05-03,Everton,Luton Town,D,Everton
+1,1,2024-05-11,Everton,Sheffield Utd,W,Everton
+0,0,2024-05-19,Everton,Arsenal,L,Everton
+0,0,2022-08-06,Fulham,Liverpool,D,Fulham
+0,0,2022-08-13,Fulham,Wolves,D,Fulham
+1,0,2022-08-20,Fulham,Brentford,W,Fulham
+0,0,2022-08-27,Fulham,Arsenal,L,Fulham
+1,0,2022-08-30,Fulham,Brighton,W,Fulham
+0,0,2022-09-03,Fulham,Tottenham,L,Fulham
+1,0,2022-09-16,Fulham,Nott'ham Forest,W,Fulham
+0,0,2022-10-01,Fulham,Newcastle Utd,L,Fulham
+0,0,2022-10-09,Fulham,West Ham,L,Fulham
+0,0,2022-10-15,Fulham,Bournemouth,D,Fulham
+1,0,2022-10-20,Fulham,Aston Villa,W,Fulham
+1,0,2022-10-23,Fulham,Leeds United,W,Fulham
+0,0,2022-10-29,Fulham,Everton,D,Fulham
+0,0,2022-11-05,Fulham,Manchester City,L,Fulham
+0,0,2022-11-13,Fulham,Manchester Utd,L,Fulham
+1,0,2022-12-26,Fulham,Crystal Palace,W,Fulham
+1,1,2022-12-31,Fulham,Southampton,W,Fulham
+1,0,2023-01-03,Fulham,Leicester City,W,Fulham
+1,1,2023-01-12,Fulham,Chelsea,W,Fulham
+0,0,2023-01-15,Fulham,Newcastle Utd,L,Fulham
+0,0,2023-01-23,Fulham,Tottenham,L,Fulham
+0,0,2023-02-03,Fulham,Chelsea,D,Fulham
+1,1,2023-02-11,Fulham,Nott'ham Forest,W,Fulham
+1,0,2023-02-18,Fulham,Brighton,W,Fulham
+0,0,2023-02-24,Fulham,Wolves,D,Fulham
+0,0,2023-03-06,Fulham,Brentford,L,Fulham
+0,0,2023-03-12,Fulham,Arsenal,L,Fulham
+0,0,2023-04-01,Fulham,Bournemouth,L,Fulham
+0,0,2023-04-08,Fulham,West Ham,L,Fulham
+1,0,2023-04-15,Fulham,Everton,W,Fulham
+1,0,2023-04-22,Fulham,Leeds United,W,Fulham
+0,0,2023-04-25,Fulham,Aston Villa,L,Fulham
+0,0,2023-04-30,Fulham,Manchester City,L,Fulham
+0,0,2023-05-03,Fulham,Liverpool,L,Fulham
+1,0,2023-05-08,Fulham,Leicester City,W,Fulham
+1,0,2023-05-13,Fulham,Southampton,W,Fulham
+0,0,2023-05-20,Fulham,Crystal Palace,D,Fulham
+0,0,2023-05-28,Fulham,Manchester Utd,L,Fulham
+1,0,2023-08-12,Fulham,Everton,W,Fulham
+0,0,2023-08-19,Fulham,Brentford,L,Fulham
+0,0,2023-08-26,Fulham,Arsenal,D,Fulham
+0,0,2023-09-02,Fulham,Manchester City,L,Fulham
+1,0,2023-09-16,Fulham,Luton Town,W,Fulham
+0,0,2023-09-23,Fulham,Crystal Palace,D,Fulham
+0,0,2023-10-02,Fulham,Chelsea,L,Fulham
+1,0,2023-10-07,Fulham,Sheffield Utd,W,Fulham
+0,0,2023-10-23,Fulham,Tottenham,L,Fulham
+0,0,2023-10-29,Fulham,Brighton,D,Fulham
+0,0,2023-11-04,Fulham,Manchester Utd,L,Fulham
+0,0,2023-11-12,Fulham,Aston Villa,L,Fulham
+1,0,2023-11-27,Fulham,Wolves,W,Fulham
+0,0,2023-12-03,Fulham,Liverpool,L,Fulham
+1,1,2023-12-06,Fulham,Nott'ham Forest,W,Fulham
+1,0,2023-12-10,Fulham,West Ham,W,Fulham
+0,1,2023-12-16,Fulham,Newcastle Utd,L,Fulham
+0,1,2023-12-23,Fulham,Burnley,L,Fulham
+0,0,2023-12-26,Fulham,Bournemouth,L,Fulham
+1,0,2023-12-31,Fulham,Arsenal,W,Fulham
+0,0,2024-01-13,Fulham,Chelsea,L,Fulham
+0,0,2024-01-30,Fulham,Everton,D,Fulham
+0,0,2024-02-03,Fulham,Burnley,D,Fulham
+1,1,2024-02-10,Fulham,Bournemouth,W,Fulham
+0,1,2024-02-17,Fulham,Aston Villa,L,Fulham
+1,0,2024-02-24,Fulham,Manchester Utd,W,Fulham
+1,1,2024-03-02,Fulham,Brighton,W,Fulham
+0,1,2024-03-09,Fulham,Wolves,L,Fulham
+1,1,2024-03-16,Fulham,Tottenham,W,Fulham
+0,0,2024-03-30,Fulham,Sheffield Utd,D,Fulham
+0,1,2024-04-02,Fulham,Nott'ham Forest,L,Fulham
+0,1,2024-04-06,Fulham,Newcastle Utd,L,Fulham
+1,0,2024-04-14,Fulham,West Ham,W,Fulham
+0,0,2024-04-21,Fulham,Liverpool,L,Fulham
+0,0,2024-04-27,Fulham,Crystal Palace,D,Fulham
+0,0,2024-05-04,Fulham,Brentford,D,Fulham
+0,0,2024-05-11,Fulham,Manchester City,L,Fulham
+1,0,2024-05-19,Fulham,Luton Town,W,Fulham
+1,0,2022-01-02,Leeds United,Burnley,W,Leeds United
+1,0,2022-01-16,Leeds United,West Ham,W,Leeds United
+0,0,2022-01-22,Leeds United,Newcastle Utd,L,Leeds United
+0,0,2022-02-09,Leeds United,Aston Villa,D,Leeds United
+0,0,2022-02-12,Leeds United,Everton,L,Leeds United
+0,0,2022-02-20,Leeds United,Manchester Utd,L,Leeds United
+0,0,2022-02-23,Leeds United,Liverpool,L,Leeds United
+0,0,2022-02-26,Leeds United,Tottenham,L,Leeds United
+0,0,2022-03-05,Leeds United,Leicester City,L,Leeds United
+0,0,2022-03-10,Leeds United,Aston Villa,L,Leeds United
+1,0,2022-03-13,Leeds United,Norwich City,W,Leeds United
+1,0,2022-03-18,Leeds United,Wolves,W,Leeds United
+0,0,2022-04-02,Leeds United,Southampton,D,Leeds United
+1,0,2022-04-09,Leeds United,Watford,W,Leeds United
+0,0,2022-04-25,Leeds United,Crystal Palace,D,Leeds United
+0,0,2022-04-30,Leeds United,Manchester City,L,Leeds United
+0,0,2022-05-08,Leeds United,Arsenal,L,Leeds United
+0,0,2022-05-11,Leeds United,Chelsea,L,Leeds United
+0,0,2022-05-15,Leeds United,Brighton,D,Leeds United
+1,0,2022-05-22,Leeds United,Brentford,W,Leeds United
+1,0,2022-08-06,Leeds United,Wolves,W,Leeds United
+0,0,2022-08-13,Leeds United,Southampton,D,Leeds United
+1,0,2022-08-21,Leeds United,Chelsea,W,Leeds United
+0,0,2022-08-27,Leeds United,Brighton,L,Leeds United
+0,0,2022-08-30,Leeds United,Everton,D,Leeds United
+0,0,2022-09-03,Leeds United,Brentford,L,Leeds United
+0,0,2022-10-02,Leeds United,Aston Villa,D,Leeds United
+0,0,2022-10-09,Leeds United,Crystal Palace,L,Leeds United
+0,0,2022-10-16,Leeds United,Arsenal,L,Leeds United
+0,0,2022-10-20,Leeds United,Leicester City,L,Leeds United
+0,0,2022-10-23,Leeds United,Fulham,L,Leeds United
+1,0,2022-10-29,Leeds United,Liverpool,W,Leeds United
+1,1,2022-11-05,Leeds United,Bournemouth,W,Leeds United
+0,0,2022-11-12,Leeds United,Tottenham,L,Leeds United
+0,0,2022-12-28,Leeds United,Manchester City,L,Leeds United
+0,0,2022-12-31,Leeds United,Newcastle Utd,D,Leeds United
+0,0,2023-01-04,Leeds United,West Ham,D,Leeds United
+0,0,2023-01-13,Leeds United,Aston Villa,L,Leeds United
+0,0,2023-01-22,Leeds United,Brentford,D,Leeds United
+0,0,2023-02-05,Leeds United,Nott'ham Forest,L,Leeds United
+0,0,2023-02-08,Leeds United,Manchester Utd,D,Leeds United
+0,0,2023-02-12,Leeds United,Manchester Utd,L,Leeds United
+0,0,2023-02-18,Leeds United,Everton,L,Leeds United
+1,0,2023-02-25,Leeds United,Southampton,W,Leeds United
+0,0,2023-03-04,Leeds United,Chelsea,L,Leeds United
+0,0,2023-03-11,Leeds United,Brighton,D,Leeds United
+1,0,2023-03-18,Leeds United,Wolves,W,Leeds United
+0,0,2023-04-01,Leeds United,Arsenal,L,Leeds United
+1,1,2023-04-04,Leeds United,Nott'ham Forest,W,Leeds United
+0,0,2023-04-09,Leeds United,Crystal Palace,L,Leeds United
+0,0,2023-04-17,Leeds United,Liverpool,L,Leeds United
+0,0,2023-04-22,Leeds United,Fulham,L,Leeds United
+0,0,2023-04-25,Leeds United,Leicester City,D,Leeds United
+0,0,2023-04-30,Leeds United,Bournemouth,L,Leeds United
+0,0,2023-05-06,Leeds United,Manchester City,L,Leeds United
+0,0,2023-05-13,Leeds United,Newcastle Utd,D,Leeds United
+0,0,2023-05-21,Leeds United,West Ham,L,Leeds United
+0,0,2023-05-28,Leeds United,Tottenham,L,Leeds United
+0,1,2022-01-19,Leicester City,Tottenham,L,Leicester City
+0,0,2022-01-23,Leicester City,Brighton,D,Leicester City
+0,0,2022-02-10,Leicester City,Liverpool,L,Leicester City
+0,0,2022-02-13,Leicester City,West Ham,D,Leicester City
+0,0,2022-02-20,Leicester City,Wolves,L,Leicester City
+1,0,2022-03-01,Leicester City,Burnley,W,Leicester City
+1,1,2022-03-05,Leicester City,Leeds United,W,Leicester City
+0,1,2022-03-13,Leicester City,Arsenal,L,Leicester City
+1,0,2022-03-20,Leicester City,Brentford,W,Leicester City
+0,0,2022-04-02,Leicester City,Manchester Utd,D,Leicester City
+1,0,2022-04-10,Leicester City,Crystal Palace,W,Leicester City
+0,0,2022-04-17,Leicester City,Newcastle Utd,L,Leicester City
+0,0,2022-04-20,Leicester City,Everton,D,Leicester City
+0,0,2022-04-23,Leicester City,Aston Villa,D,Leicester City
+0,0,2022-05-01,Leicester City,Tottenham,L,Leicester City
+0,0,2022-05-08,Leicester City,Everton,L,Leicester City
+1,1,2022-05-11,Leicester City,Norwich City,W,Leicester City
+1,0,2022-05-15,Leicester City,Watford,W,Leicester City
+0,1,2022-05-19,Leicester City,Chelsea,D,Leicester City
+1,1,2022-05-22,Leicester City,Southampton,W,Leicester City
+0,1,2022-08-07,Leicester City,Brentford,D,Leicester City
+0,0,2022-08-13,Leicester City,Arsenal,L,Leicester City
+0,1,2022-08-20,Leicester City,Southampton,L,Leicester City
+0,0,2022-08-27,Leicester City,Chelsea,L,Leicester City
+0,0,2022-09-01,Leicester City,Manchester Utd,L,Leicester City
+0,0,2022-09-04,Leicester City,Brighton,L,Leicester City
+0,0,2022-09-17,Leicester City,Tottenham,L,Leicester City
+1,0,2022-10-03,Leicester City,Nott'ham Forest,W,Leicester City
+0,0,2022-10-08,Leicester City,Bournemouth,L,Leicester City
+0,0,2022-10-15,Leicester City,Crystal Palace,D,Leicester City
+1,0,2022-10-20,Leicester City,Leeds United,W,Leicester City
+1,0,2022-10-23,Leicester City,Wolves,W,Leicester City
+0,0,2022-10-29,Leicester City,Manchester City,L,Leicester City
+1,0,2022-11-05,Leicester City,Everton,W,Leicester City
+1,1,2022-11-12,Leicester City,West Ham,W,Leicester City
+0,1,2022-12-26,Leicester City,Newcastle Utd,L,Leicester City
+0,0,2022-12-30,Leicester City,Liverpool,L,Leicester City
+0,0,2023-01-03,Leicester City,Fulham,L,Leicester City
+0,0,2023-01-14,Leicester City,Nott'ham Forest,L,Leicester City
+0,0,2023-01-21,Leicester City,Brighton,D,Leicester City
+1,0,2023-02-04,Leicester City,Aston Villa,W,Leicester City
+1,1,2023-02-11,Leicester City,Tottenham,W,Leicester City
+0,0,2023-02-19,Leicester City,Manchester Utd,L,Leicester City
+0,0,2023-02-25,Leicester City,Arsenal,L,Leicester City
+0,0,2023-03-04,Leicester City,Southampton,L,Leicester City
+0,0,2023-03-11,Leicester City,Chelsea,L,Leicester City
+0,0,2023-03-18,Leicester City,Brentford,D,Leicester City
+0,0,2023-04-01,Leicester City,Crystal Palace,L,Leicester City
+0,0,2023-04-04,Leicester City,Aston Villa,L,Leicester City
+0,0,2023-04-08,Leicester City,Bournemouth,L,Leicester City
+0,0,2023-04-15,Leicester City,Manchester City,L,Leicester City
+1,0,2023-04-22,Leicester City,Wolves,W,Leicester City
+0,0,2023-04-25,Leicester City,Leeds United,D,Leicester City
+0,0,2023-05-01,Leicester City,Everton,D,Leicester City
+0,0,2023-05-08,Leicester City,Fulham,L,Leicester City
+0,0,2023-05-15,Leicester City,Liverpool,L,Leicester City
+0,1,2023-05-22,Leicester City,Newcastle Utd,D,Leicester City
+1,0,2023-05-28,Leicester City,West Ham,W,Leicester City
+0,1,2022-01-02,Liverpool,Chelsea,D,Liverpool
+1,1,2022-01-16,Liverpool,Brentford,W,Liverpool
+1,1,2022-01-23,Liverpool,Crystal Palace,W,Liverpool
+1,1,2022-02-10,Liverpool,Leicester City,W,Liverpool
+1,1,2022-02-13,Liverpool,Burnley,W,Liverpool
+1,1,2022-02-19,Liverpool,Norwich City,W,Liverpool
+1,0,2022-02-23,Liverpool,Leeds United,W,Liverpool
+1,1,2022-03-05,Liverpool,West Ham,W,Liverpool
+1,1,2022-03-12,Liverpool,Brighton,W,Liverpool
+1,1,2022-03-16,Liverpool,Arsenal,W,Liverpool
+1,1,2022-04-02,Liverpool,Watford,W,Liverpool
+0,0,2022-04-10,Liverpool,Manchester City,D,Liverpool
+1,0,2022-04-19,Liverpool,Manchester Utd,W,Liverpool
+1,0,2022-04-24,Liverpool,Everton,W,Liverpool
+1,0,2022-04-30,Liverpool,Newcastle Utd,W,Liverpool
+0,1,2022-05-07,Liverpool,Tottenham,D,Liverpool
+1,1,2022-05-10,Liverpool,Aston Villa,W,Liverpool
+1,1,2022-05-17,Liverpool,Southampton,W,Liverpool
+1,0,2022-05-22,Liverpool,Wolves,W,Liverpool
+0,0,2022-08-06,Liverpool,Fulham,D,Liverpool
+0,1,2022-08-15,Liverpool,Crystal Palace,D,Liverpool
+0,0,2022-08-22,Liverpool,Manchester Utd,L,Liverpool
+1,1,2022-08-27,Liverpool,Bournemouth,W,Liverpool
+1,1,2022-08-31,Liverpool,Newcastle Utd,W,Liverpool
+0,1,2022-09-03,Liverpool,Everton,D,Liverpool
+0,1,2022-10-01,Liverpool,Brighton,D,Liverpool
+0,1,2022-10-09,Liverpool,Arsenal,L,Liverpool
+1,1,2022-10-16,Liverpool,Manchester City,W,Liverpool
+1,1,2022-10-19,Liverpool,West Ham,W,Liverpool
+0,0,2022-10-22,Liverpool,Nott'ham Forest,L,Liverpool
+0,1,2022-10-29,Liverpool,Leeds United,L,Liverpool
+1,0,2022-11-06,Liverpool,Tottenham,W,Liverpool
+1,0,2022-11-12,Liverpool,Southampton,W,Liverpool
+1,0,2022-12-26,Liverpool,Aston Villa,W,Liverpool
+1,0,2022-12-30,Liverpool,Leicester City,W,Liverpool
+0,0,2023-01-02,Liverpool,Brentford,L,Liverpool
+0,0,2023-01-14,Liverpool,Brighton,L,Liverpool
+0,0,2023-01-21,Liverpool,Chelsea,D,Liverpool
+0,0,2023-02-04,Liverpool,Wolves,L,Liverpool
+1,0,2023-02-13,Liverpool,Everton,W,Liverpool
+1,0,2023-02-18,Liverpool,Newcastle Utd,W,Liverpool
+0,1,2023-02-25,Liverpool,Crystal Palace,D,Liverpool
+1,1,2023-03-01,Liverpool,Wolves,W,Liverpool
+1,1,2023-03-05,Liverpool,Manchester Utd,W,Liverpool
+0,1,2023-03-11,Liverpool,Bournemouth,L,Liverpool
+0,1,2023-04-01,Liverpool,Manchester City,L,Liverpool
+0,0,2023-04-04,Liverpool,Chelsea,D,Liverpool
+0,0,2023-04-09,Liverpool,Arsenal,D,Liverpool
+1,0,2023-04-17,Liverpool,Leeds United,W,Liverpool
+1,1,2023-04-22,Liverpool,Nott'ham Forest,W,Liverpool
+1,1,2023-04-26,Liverpool,West Ham,W,Liverpool
+1,0,2023-04-30,Liverpool,Tottenham,W,Liverpool
+1,0,2023-05-03,Liverpool,Fulham,W,Liverpool
+1,1,2023-05-06,Liverpool,Brentford,W,Liverpool
+1,0,2023-05-15,Liverpool,Leicester City,W,Liverpool
+0,1,2023-05-20,Liverpool,Aston Villa,D,Liverpool
+0,0,2023-05-28,Liverpool,Southampton,D,Liverpool
+0,1,2023-08-13,Liverpool,Chelsea,D,Liverpool
+1,1,2023-08-19,Liverpool,Bournemouth,W,Liverpool
+1,0,2023-08-27,Liverpool,Newcastle Utd,W,Liverpool
+1,0,2023-09-03,Liverpool,Aston Villa,W,Liverpool
+1,0,2023-09-16,Liverpool,Wolves,W,Liverpool
+1,1,2023-09-24,Liverpool,West Ham,W,Liverpool
+0,0,2023-09-30,Liverpool,Tottenham,L,Liverpool
+0,1,2023-10-08,Liverpool,Brighton,D,Liverpool
+1,0,2023-10-21,Liverpool,Everton,W,Liverpool
+1,0,2023-10-29,Liverpool,Nott'ham Forest,W,Liverpool
+0,0,2023-11-05,Liverpool,Luton Town,D,Liverpool
+1,1,2023-11-12,Liverpool,Brentford,W,Liverpool
+0,0,2023-11-25,Liverpool,Manchester City,D,Liverpool
+1,1,2023-12-03,Liverpool,Fulham,W,Liverpool
+1,1,2023-12-06,Liverpool,Sheffield Utd,W,Liverpool
+1,0,2023-12-09,Liverpool,Crystal Palace,W,Liverpool
+0,0,2023-12-17,Liverpool,Manchester Utd,D,Liverpool
+0,1,2023-12-23,Liverpool,Arsenal,D,Liverpool
+1,0,2023-12-26,Liverpool,Burnley,W,Liverpool
+1,1,2024-01-01,Liverpool,Newcastle Utd,W,Liverpool
+1,1,2024-01-21,Liverpool,Bournemouth,W,Liverpool
+1,1,2024-01-31,Liverpool,Chelsea,W,Liverpool
+0,1,2024-02-04,Liverpool,Arsenal,L,Liverpool
+1,1,2024-02-10,Liverpool,Burnley,W,Liverpool
+1,1,2024-02-17,Liverpool,Brentford,W,Liverpool
+1,0,2024-02-21,Liverpool,Luton Town,W,Liverpool
+1,1,2024-03-02,Liverpool,Nott'ham Forest,W,Liverpool
+0,0,2024-03-10,Liverpool,Manchester City,D,Liverpool
+1,1,2024-03-31,Liverpool,Brighton,W,Liverpool
+1,1,2024-04-04,Liverpool,Sheffield Utd,W,Liverpool
+0,0,2024-04-07,Liverpool,Manchester Utd,D,Liverpool
+0,1,2024-04-14,Liverpool,Crystal Palace,L,Liverpool
+1,1,2024-04-21,Liverpool,Fulham,W,Liverpool
+0,1,2024-04-24,Liverpool,Everton,L,Liverpool
+0,0,2024-04-27,Liverpool,West Ham,D,Liverpool
+1,1,2024-05-05,Liverpool,Tottenham,W,Liverpool
+0,1,2024-05-13,Liverpool,Aston Villa,D,Liverpool
+1,1,2024-05-19,Liverpool,Wolves,W,Liverpool
+0,0,2023-09-16,Luton Town,Fulham,L,Luton Town
+0,0,2023-09-23,Luton Town,Wolves,D,Luton Town
+1,0,2023-09-30,Luton Town,Everton,W,Luton Town
+0,0,2023-10-03,Luton Town,Burnley,L,Luton Town
+0,0,2023-10-07,Luton Town,Tottenham,L,Luton Town
+0,0,2023-10-21,Luton Town,Nott'ham Forest,D,Luton Town
+0,0,2023-10-29,Luton Town,Aston Villa,L,Luton Town
+0,0,2023-11-05,Luton Town,Liverpool,D,Luton Town
+0,0,2023-11-11,Luton Town,Manchester Utd,L,Luton Town
+1,0,2023-11-25,Luton Town,Crystal Palace,W,Luton Town
+0,0,2023-12-02,Luton Town,Brentford,L,Luton Town
+0,0,2023-12-05,Luton Town,Arsenal,L,Luton Town
+0,0,2023-12-10,Luton Town,Manchester City,L,Luton Town
+1,0,2023-12-23,Luton Town,Newcastle Utd,W,Luton Town
+1,0,2023-12-26,Luton Town,Sheffield Utd,W,Luton Town
+0,0,2023-12-30,Luton Town,Chelsea,L,Luton Town
+0,0,2024-01-12,Luton Town,Burnley,D,Luton Town
+1,0,2024-01-30,Luton Town,Brighton,W,Luton Town
+0,1,2024-02-03,Luton Town,Newcastle Utd,D,Luton Town
+0,1,2024-02-10,Luton Town,Sheffield Utd,L,Luton Town
+0,0,2024-02-18,Luton Town,Manchester Utd,L,Luton Town
+0,0,2024-02-21,Luton Town,Liverpool,L,Luton Town
+0,0,2024-03-02,Luton Town,Aston Villa,L,Luton Town
+0,0,2024-03-09,Luton Town,Crystal Palace,D,Luton Town
+0,0,2024-03-13,Luton Town,Bournemouth,L,Luton Town
+0,1,2024-03-16,Luton Town,Nott'ham Forest,D,Luton Town
+0,0,2024-03-30,Luton Town,Tottenham,L,Luton Town
+0,0,2024-04-03,Luton Town,Arsenal,L,Luton Town
+1,1,2024-04-06,Luton Town,Bournemouth,W,Luton Town
+0,0,2024-04-13,Luton Town,Manchester City,L,Luton Town
+0,0,2024-04-20,Luton Town,Brentford,L,Luton Town
+0,0,2024-04-27,Luton Town,Wolves,L,Luton Town
+0,0,2024-05-03,Luton Town,Everton,D,Luton Town
+0,0,2024-05-11,Luton Town,West Ham,L,Luton Town
+0,0,2024-05-19,Luton Town,Fulham,L,Luton Town
+1,0,2022-01-15,Manchester City,Chelsea,W,Manchester City
+0,0,2022-01-22,Manchester City,Southampton,D,Manchester City
+1,1,2022-02-09,Manchester City,Brentford,W,Manchester City
+1,0,2022-02-12,Manchester City,Norwich City,W,Manchester City
+0,1,2022-02-19,Manchester City,Tottenham,L,Manchester City
+1,0,2022-02-26,Manchester City,Everton,W,Manchester City
+1,1,2022-03-06,Manchester City,Manchester Utd,W,Manchester City
+0,1,2022-03-14,Manchester City,Crystal Palace,D,Manchester City
+1,1,2022-04-02,Manchester City,Burnley,W,Manchester City
+0,1,2022-04-10,Manchester City,Liverpool,D,Manchester City
+1,1,2022-04-20,Manchester City,Brighton,W,Manchester City
+1,1,2022-04-23,Manchester City,Watford,W,Manchester City
+1,1,2022-04-30,Manchester City,Leeds United,W,Manchester City
+1,1,2022-05-08,Manchester City,Newcastle Utd,W,Manchester City
+1,1,2022-05-11,Manchester City,Wolves,W,Manchester City
+0,1,2022-05-15,Manchester City,West Ham,D,Manchester City
+1,1,2022-05-22,Manchester City,Aston Villa,W,Manchester City
+1,0,2022-08-07,Manchester City,West Ham,W,Manchester City
+1,1,2022-08-13,Manchester City,Bournemouth,W,Manchester City
+0,0,2022-08-21,Manchester City,Newcastle Utd,D,Manchester City
+1,1,2022-08-27,Manchester City,Crystal Palace,W,Manchester City
+1,1,2022-08-31,Manchester City,Nott'ham Forest,W,Manchester City
+0,1,2022-09-03,Manchester City,Aston Villa,D,Manchester City
+1,1,2022-09-17,Manchester City,Wolves,W,Manchester City
+1,1,2022-10-02,Manchester City,Manchester Utd,W,Manchester City
+1,1,2022-10-08,Manchester City,Southampton,W,Manchester City
+0,0,2022-10-16,Manchester City,Liverpool,L,Manchester City
+1,1,2022-10-22,Manchester City,Brighton,W,Manchester City
+1,0,2022-10-29,Manchester City,Leicester City,W,Manchester City
+1,0,2022-11-05,Manchester City,Fulham,W,Manchester City
+0,0,2022-11-12,Manchester City,Brentford,L,Manchester City
+1,0,2022-12-28,Manchester City,Leeds United,W,Manchester City
+0,1,2022-12-31,Manchester City,Everton,D,Manchester City
+1,1,2023-01-05,Manchester City,Chelsea,W,Manchester City
+0,0,2023-01-14,Manchester City,Manchester Utd,L,Manchester City
+1,0,2023-01-19,Manchester City,Tottenham,W,Manchester City
+1,1,2023-01-22,Manchester City,Wolves,W,Manchester City
+0,0,2023-02-05,Manchester City,Tottenham,L,Manchester City
+1,0,2023-02-12,Manchester City,Aston Villa,W,Manchester City
+1,1,2023-02-15,Manchester City,Arsenal,W,Manchester City
+0,1,2023-02-18,Manchester City,Nott'ham Forest,D,Manchester City
+1,1,2023-02-25,Manchester City,Bournemouth,W,Manchester City
+1,1,2023-03-04,Manchester City,Newcastle Utd,W,Manchester City
+1,1,2023-03-11,Manchester City,Crystal Palace,W,Manchester City
+1,0,2023-04-01,Manchester City,Liverpool,W,Manchester City
+1,1,2023-04-08,Manchester City,Southampton,W,Manchester City
+1,1,2023-04-15,Manchester City,Leicester City,W,Manchester City
+1,1,2023-04-26,Manchester City,Arsenal,W,Manchester City
+1,1,2023-04-30,Manchester City,Fulham,W,Manchester City
+1,1,2023-05-03,Manchester City,West Ham,W,Manchester City
+1,1,2023-05-06,Manchester City,Leeds United,W,Manchester City
+1,0,2023-05-14,Manchester City,Everton,W,Manchester City
+1,1,2023-05-21,Manchester City,Chelsea,W,Manchester City
+0,0,2023-05-24,Manchester City,Brighton,D,Manchester City
+0,0,2023-05-28,Manchester City,Brentford,L,Manchester City
+1,0,2023-08-11,Manchester City,Burnley,W,Manchester City
+1,1,2023-08-19,Manchester City,Newcastle Utd,W,Manchester City
+1,0,2023-08-27,Manchester City,Sheffield Utd,W,Manchester City
+1,1,2023-09-02,Manchester City,Fulham,W,Manchester City
+1,0,2023-09-16,Manchester City,West Ham,W,Manchester City
+1,1,2023-09-23,Manchester City,Nott'ham Forest,W,Manchester City
+0,1,2023-09-30,Manchester City,Wolves,L,Manchester City
+0,1,2023-10-08,Manchester City,Arsenal,L,Manchester City
+1,0,2023-10-21,Manchester City,Brighton,W,Manchester City
+1,0,2023-10-29,Manchester City,Manchester Utd,W,Manchester City
+1,1,2023-11-04,Manchester City,Bournemouth,W,Manchester City
+0,1,2023-11-12,Manchester City,Chelsea,D,Manchester City
+0,0,2023-11-25,Manchester City,Liverpool,D,Manchester City
+0,0,2023-12-03,Manchester City,Tottenham,D,Manchester City
+0,1,2023-12-06,Manchester City,Aston Villa,L,Manchester City
+1,0,2023-12-10,Manchester City,Luton Town,W,Manchester City
+0,0,2023-12-16,Manchester City,Crystal Palace,D,Manchester City
+1,0,2023-12-27,Manchester City,Everton,W,Manchester City
+1,0,2023-12-30,Manchester City,Sheffield Utd,W,Manchester City
+1,0,2024-01-13,Manchester City,Newcastle Utd,W,Manchester City
+1,1,2024-01-31,Manchester City,Burnley,W,Manchester City
+1,1,2024-02-05,Manchester City,Brentford,W,Manchester City
+1,1,2024-02-10,Manchester City,Everton,W,Manchester City
+0,0,2024-02-17,Manchester City,Chelsea,D,Manchester City
+1,1,2024-02-20,Manchester City,Brentford,W,Manchester City
+1,1,2024-02-24,Manchester City,Bournemouth,W,Manchester City
+1,1,2024-03-03,Manchester City,Manchester Utd,W,Manchester City
+0,0,2024-03-10,Manchester City,Liverpool,D,Manchester City
+0,1,2024-03-31,Manchester City,Arsenal,D,Manchester City
+1,1,2024-04-03,Manchester City,Aston Villa,W,Manchester City
+1,1,2024-04-06,Manchester City,Crystal Palace,W,Manchester City
+1,0,2024-04-13,Manchester City,Luton Town,W,Manchester City
+1,1,2024-04-25,Manchester City,Brighton,W,Manchester City
+1,0,2024-04-28,Manchester City,Nott'ham Forest,W,Manchester City
+1,1,2024-05-04,Manchester City,Wolves,W,Manchester City
+1,0,2024-05-11,Manchester City,Fulham,W,Manchester City
+1,1,2024-05-14,Manchester City,Tottenham,W,Manchester City
+1,0,2024-05-19,Manchester City,West Ham,W,Manchester City
+0,1,2022-01-03,Manchester United,Wolves,L,Manchester Utd
+0,0,2022-01-15,Manchester United,Aston Villa,D,Manchester Utd
+1,1,2022-01-19,Manchester United,Brentford,W,Manchester Utd
+1,0,2022-01-22,Manchester United,West Ham,W,Manchester Utd
+0,0,2022-02-08,Manchester United,Burnley,D,Manchester Utd
+0,0,2022-02-12,Manchester United,Southampton,D,Manchester Utd
+1,1,2022-02-15,Manchester United,Brighton,W,Manchester Utd
+1,0,2022-02-20,Manchester United,Leeds United,W,Manchester Utd
+0,1,2022-02-26,Manchester United,Watford,D,Manchester Utd
+0,0,2022-03-06,Manchester United,Manchester City,L,Manchester Utd
+1,0,2022-03-12,Manchester United,Tottenham,W,Manchester Utd
+0,0,2022-04-02,Manchester United,Leicester City,D,Manchester Utd
+0,0,2022-04-09,Manchester United,Everton,L,Manchester Utd
+1,0,2022-04-16,Manchester United,Norwich City,W,Manchester Utd
+0,0,2022-04-19,Manchester United,Liverpool,L,Manchester Utd
+0,0,2022-04-23,Manchester United,Arsenal,L,Manchester Utd
+0,0,2022-04-28,Manchester United,Chelsea,D,Manchester Utd
+1,0,2022-05-02,Manchester United,Brentford,W,Manchester Utd
+0,0,2022-05-07,Manchester United,Brighton,L,Manchester Utd
+0,0,2022-05-22,Manchester United,Crystal Palace,L,Manchester Utd
+0,0,2022-08-07,Manchester United,Brighton,L,Manchester Utd
+0,0,2022-08-13,Manchester United,Brentford,L,Manchester Utd
+1,0,2022-08-22,Manchester United,Liverpool,W,Manchester Utd
+1,0,2022-08-27,Manchester United,Southampton,W,Manchester Utd
+1,0,2022-09-01,Manchester United,Leicester City,W,Manchester Utd
+1,1,2022-09-04,Manchester United,Arsenal,W,Manchester Utd
+0,0,2022-10-02,Manchester United,Manchester City,L,Manchester Utd
+1,0,2022-10-09,Manchester United,Everton,W,Manchester Utd
+0,0,2022-10-16,Manchester United,Newcastle Utd,D,Manchester Utd
+1,0,2022-10-19,Manchester United,Tottenham,W,Manchester Utd
+0,0,2022-10-22,Manchester United,Chelsea,D,Manchester Utd
+1,0,2022-10-30,Manchester United,West Ham,W,Manchester Utd
+0,1,2022-11-06,Manchester United,Aston Villa,L,Manchester Utd
+1,0,2022-11-13,Manchester United,Fulham,W,Manchester Utd
+1,1,2022-12-27,Manchester United,Nott'ham Forest,W,Manchester Utd
+1,1,2022-12-31,Manchester United,Wolves,W,Manchester Utd
+1,1,2023-01-03,Manchester United,Bournemouth,W,Manchester Utd
+1,1,2023-01-14,Manchester United,Manchester City,W,Manchester Utd
+0,1,2023-01-18,Manchester United,Crystal Palace,D,Manchester Utd
+0,0,2023-01-22,Manchester United,Arsenal,L,Manchester Utd
+1,0,2023-02-04,Manchester United,Crystal Palace,W,Manchester Utd
+0,0,2023-02-08,Manchester United,Leeds United,D,Manchester Utd
+1,0,2023-02-12,Manchester United,Leeds United,W,Manchester Utd
+1,0,2023-02-19,Manchester United,Leicester City,W,Manchester Utd
+0,1,2023-03-05,Manchester United,Liverpool,L,Manchester Utd
+0,1,2023-03-12,Manchester United,Southampton,D,Manchester Utd
+0,0,2023-04-02,Manchester United,Newcastle Utd,L,Manchester Utd
+1,0,2023-04-05,Manchester United,Brentford,W,Manchester Utd
+1,0,2023-04-08,Manchester United,Everton,W,Manchester Utd
+1,0,2023-04-16,Manchester United,Nott'ham Forest,W,Manchester Utd
+0,1,2023-04-27,Manchester United,Tottenham,D,Manchester Utd
+1,1,2023-04-30,Manchester United,Aston Villa,W,Manchester Utd
+0,0,2023-05-04,Manchester United,Brighton,L,Manchester Utd
+0,1,2023-05-07,Manchester United,West Ham,L,Manchester Utd
+1,0,2023-05-13,Manchester United,Wolves,W,Manchester Utd
+1,1,2023-05-20,Manchester United,Bournemouth,W,Manchester Utd
+1,1,2023-05-25,Manchester United,Chelsea,W,Manchester Utd
+1,1,2023-05-28,Manchester United,Fulham,W,Manchester Utd
+1,1,2023-08-14,Manchester United,Wolves,W,Manchester Utd
+0,1,2023-08-19,Manchester United,Tottenham,L,Manchester Utd
+1,0,2023-08-26,Manchester United,Nott'ham Forest,W,Manchester Utd
+0,1,2023-09-03,Manchester United,Arsenal,L,Manchester Utd
+0,0,2023-09-16,Manchester United,Brighton,L,Manchester Utd
+1,0,2023-09-23,Manchester United,Burnley,W,Manchester Utd
+0,0,2023-09-30,Manchester United,Crystal Palace,L,Manchester Utd
+1,1,2023-10-07,Manchester United,Brentford,W,Manchester Utd
+1,1,2023-10-21,Manchester United,Sheffield Utd,W,Manchester Utd
+0,0,2023-10-29,Manchester United,Manchester City,L,Manchester Utd
+1,0,2023-11-04,Manchester United,Fulham,W,Manchester Utd
+1,0,2023-11-11,Manchester United,Luton Town,W,Manchester Utd
+1,0,2023-11-26,Manchester United,Everton,W,Manchester Utd
+0,1,2023-12-02,Manchester United,Newcastle Utd,L,Manchester Utd
+1,0,2023-12-06,Manchester United,Chelsea,W,Manchester Utd
+0,1,2023-12-09,Manchester United,Bournemouth,L,Manchester Utd
+0,0,2023-12-17,Manchester United,Liverpool,D,Manchester Utd
+0,0,2023-12-23,Manchester United,West Ham,L,Manchester Utd
+1,0,2023-12-26,Manchester United,Aston Villa,W,Manchester Utd
+0,0,2023-12-30,Manchester United,Nott'ham Forest,L,Manchester Utd
+0,0,2024-01-14,Manchester United,Tottenham,D,Manchester Utd
+1,0,2024-02-01,Manchester United,Wolves,W,Manchester Utd
+1,0,2024-02-04,Manchester United,West Ham,W,Manchester Utd
+1,1,2024-02-11,Manchester United,Aston Villa,W,Manchester Utd
+1,0,2024-02-18,Manchester United,Luton Town,W,Manchester Utd
+0,1,2024-02-24,Manchester United,Fulham,L,Manchester Utd
+0,0,2024-03-03,Manchester United,Manchester City,L,Manchester Utd
+1,0,2024-03-09,Manchester United,Everton,W,Manchester Utd
+0,0,2024-03-30,Manchester United,Brentford,D,Manchester Utd
+0,0,2024-04-04,Manchester United,Chelsea,L,Manchester Utd
+0,0,2024-04-07,Manchester United,Liverpool,D,Manchester Utd
+0,0,2024-04-13,Manchester United,Bournemouth,D,Manchester Utd
+1,1,2024-04-24,Manchester United,Sheffield Utd,W,Manchester Utd
+0,1,2024-04-27,Manchester United,Burnley,D,Manchester Utd
+0,1,2024-05-06,Manchester United,Crystal Palace,L,Manchester Utd
+0,1,2024-05-12,Manchester United,Arsenal,L,Manchester Utd
+1,0,2024-05-15,Manchester United,Newcastle Utd,W,Manchester Utd
+1,0,2024-05-19,Manchester United,Brighton,W,Manchester Utd
+0,0,2022-01-15,Newcastle United,Watford,D,Newcastle Utd
+1,0,2022-01-22,Newcastle United,Leeds United,W,Newcastle Utd
+1,0,2022-02-08,Newcastle United,Everton,W,Newcastle Utd
+1,0,2022-02-13,Newcastle United,Aston Villa,W,Newcastle Utd
+0,0,2022-02-19,Newcastle United,West Ham,D,Newcastle Utd
+1,1,2022-02-26,Newcastle United,Brentford,W,Newcastle Utd
+1,1,2022-03-05,Newcastle United,Brighton,W,Newcastle Utd
+1,1,2022-03-10,Newcastle United,Southampton,W,Newcastle Utd
+0,1,2022-03-13,Newcastle United,Chelsea,L,Newcastle Utd
+0,0,2022-03-17,Newcastle United,Everton,L,Newcastle Utd
+0,0,2022-04-03,Newcastle United,Tottenham,L,Newcastle Utd
+1,0,2022-04-08,Newcastle United,Wolves,W,Newcastle Utd
+1,0,2022-04-17,Newcastle United,Leicester City,W,Newcastle Utd
+1,0,2022-04-20,Newcastle United,Crystal Palace,W,Newcastle Utd
+1,0,2022-04-23,Newcastle United,Norwich City,W,Newcastle Utd
+0,0,2022-04-30,Newcastle United,Liverpool,L,Newcastle Utd
+0,0,2022-05-08,Newcastle United,Manchester City,L,Newcastle Utd
+1,0,2022-05-16,Newcastle United,Arsenal,W,Newcastle Utd
+1,0,2022-05-22,Newcastle United,Burnley,W,Newcastle Utd
+1,1,2022-08-06,Newcastle United,Nott'ham Forest,W,Newcastle Utd
+0,0,2022-08-13,Newcastle United,Brighton,D,Newcastle Utd
+0,0,2022-08-21,Newcastle United,Manchester City,D,Newcastle Utd
+0,0,2022-08-28,Newcastle United,Wolves,D,Newcastle Utd
+0,0,2022-08-31,Newcastle United,Liverpool,L,Newcastle Utd
+0,0,2022-09-03,Newcastle United,Crystal Palace,D,Newcastle Utd
+0,0,2022-09-17,Newcastle United,Bournemouth,D,Newcastle Utd
+1,0,2022-10-01,Newcastle United,Fulham,W,Newcastle Utd
+1,1,2022-10-08,Newcastle United,Brentford,W,Newcastle Utd
+0,0,2022-10-16,Newcastle United,Manchester Utd,D,Newcastle Utd
+1,1,2022-10-19,Newcastle United,Everton,W,Newcastle Utd
+1,0,2022-10-23,Newcastle United,Tottenham,W,Newcastle Utd
+1,1,2022-10-29,Newcastle United,Aston Villa,W,Newcastle Utd
+1,0,2022-11-06,Newcastle United,Southampton,W,Newcastle Utd
+1,0,2022-11-12,Newcastle United,Chelsea,W,Newcastle Utd
+1,0,2022-12-26,Newcastle United,Leicester City,W,Newcastle Utd
+0,0,2022-12-31,Newcastle United,Leeds United,D,Newcastle Utd
+0,0,2023-01-03,Newcastle United,Arsenal,D,Newcastle Utd
+1,0,2023-01-15,Newcastle United,Fulham,W,Newcastle Utd
+0,1,2023-01-21,Newcastle United,Crystal Palace,D,Newcastle Utd
+0,1,2023-02-04,Newcastle United,West Ham,D,Newcastle Utd
+0,0,2023-02-11,Newcastle United,Bournemouth,D,Newcastle Utd
+0,0,2023-02-18,Newcastle United,Liverpool,L,Newcastle Utd
+0,0,2023-03-04,Newcastle United,Manchester City,L,Newcastle Utd
+1,0,2023-03-12,Newcastle United,Wolves,W,Newcastle Utd
+1,0,2023-03-17,Newcastle United,Nott'ham Forest,W,Newcastle Utd
+1,0,2023-04-02,Newcastle United,Manchester Utd,W,Newcastle Utd
+1,1,2023-04-05,Newcastle United,West Ham,W,Newcastle Utd
+1,1,2023-04-08,Newcastle United,Brentford,W,Newcastle Utd
+0,1,2023-04-15,Newcastle United,Aston Villa,L,Newcastle Utd
+1,1,2023-04-23,Newcastle United,Tottenham,W,Newcastle Utd
+1,0,2023-04-27,Newcastle United,Everton,W,Newcastle Utd
+1,0,2023-04-30,Newcastle United,Southampton,W,Newcastle Utd
+0,1,2023-05-07,Newcastle United,Arsenal,L,Newcastle Utd
+0,0,2023-05-13,Newcastle United,Leeds United,D,Newcastle Utd
+1,1,2023-05-18,Newcastle United,Brighton,W,Newcastle Utd
+0,1,2023-05-22,Newcastle United,Leicester City,D,Newcastle Utd
+0,1,2023-05-28,Newcastle United,Chelsea,D,Newcastle Utd
+1,1,2023-08-12,Newcastle United,Aston Villa,W,Newcastle Utd
+0,1,2023-08-19,Newcastle United,Manchester City,L,Newcastle Utd
+0,0,2023-08-27,Newcastle United,Liverpool,L,Newcastle Utd
+0,0,2023-09-02,Newcastle United,Brighton,L,Newcastle Utd
+1,0,2023-09-16,Newcastle United,Brentford,W,Newcastle Utd
+1,1,2023-09-24,Newcastle United,Sheffield Utd,W,Newcastle Utd
+1,1,2023-09-30,Newcastle United,Burnley,W,Newcastle Utd
+0,1,2023-10-08,Newcastle United,West Ham,D,Newcastle Utd
+1,1,2023-10-21,Newcastle United,Crystal Palace,W,Newcastle Utd
+0,1,2023-10-28,Newcastle United,Wolves,D,Newcastle Utd
+1,0,2023-11-04,Newcastle United,Arsenal,W,Newcastle Utd
+0,0,2023-11-11,Newcastle United,Bournemouth,L,Newcastle Utd
+1,0,2023-11-25,Newcastle United,Chelsea,W,Newcastle Utd
+1,0,2023-12-02,Newcastle United,Manchester Utd,W,Newcastle Utd
+0,0,2023-12-07,Newcastle United,Everton,L,Newcastle Utd
+0,1,2023-12-10,Newcastle United,Tottenham,L,Newcastle Utd
+1,0,2023-12-16,Newcastle United,Fulham,W,Newcastle Utd
+0,0,2023-12-23,Newcastle United,Luton Town,L,Newcastle Utd
+0,0,2023-12-26,Newcastle United,Nott'ham Forest,L,Newcastle Utd
+0,0,2024-01-01,Newcastle United,Liverpool,L,Newcastle Utd
+0,0,2024-01-13,Newcastle United,Manchester City,L,Newcastle Utd
+1,1,2024-01-30,Newcastle United,Aston Villa,W,Newcastle Utd
+0,0,2024-02-03,Newcastle United,Luton Town,D,Newcastle Utd
+1,0,2024-02-10,Newcastle United,Nott'ham Forest,W,Newcastle Utd
+0,1,2024-02-17,Newcastle United,Bournemouth,D,Newcastle Utd
+0,0,2024-02-24,Newcastle United,Arsenal,L,Newcastle Utd
+1,1,2024-03-02,Newcastle United,Wolves,W,Newcastle Utd
+0,0,2024-03-11,Newcastle United,Chelsea,L,Newcastle Utd
+1,0,2024-03-30,Newcastle United,West Ham,W,Newcastle Utd
+0,1,2024-04-02,Newcastle United,Everton,D,Newcastle Utd
+1,0,2024-04-06,Newcastle United,Fulham,W,Newcastle Utd
+1,0,2024-04-13,Newcastle United,Tottenham,W,Newcastle Utd
+0,1,2024-04-24,Newcastle United,Crystal Palace,L,Newcastle Utd
+1,0,2024-04-27,Newcastle United,Sheffield Utd,W,Newcastle Utd
+1,0,2024-05-04,Newcastle United,Burnley,W,Newcastle Utd
+0,1,2024-05-11,Newcastle United,Brighton,D,Newcastle Utd
+0,1,2024-05-15,Newcastle United,Manchester Utd,L,Newcastle Utd
+1,1,2024-05-19,Newcastle United,Brentford,W,Newcastle Utd
+0,0,2022-01-12,Norwich City,West Ham,L,Norwich City
+1,0,2022-01-15,Norwich City,Everton,W,Norwich City
+1,0,2022-01-21,Norwich City,Watford,W,Norwich City
+0,0,2022-02-09,Norwich City,Crystal Palace,D,Norwich City
+0,0,2022-02-12,Norwich City,Manchester City,L,Norwich City
+0,0,2022-02-19,Norwich City,Liverpool,L,Norwich City
+0,0,2022-02-25,Norwich City,Southampton,L,Norwich City
+0,0,2022-03-05,Norwich City,Brentford,L,Norwich City
+0,0,2022-03-10,Norwich City,Chelsea,L,Norwich City
+0,0,2022-03-13,Norwich City,Leeds United,L,Norwich City
+0,0,2022-04-02,Norwich City,Brighton,D,Norwich City
+1,0,2022-04-10,Norwich City,Burnley,W,Norwich City
+0,0,2022-04-16,Norwich City,Manchester Utd,L,Norwich City
+0,0,2022-04-23,Norwich City,Newcastle Utd,L,Norwich City
+0,0,2022-04-30,Norwich City,Aston Villa,L,Norwich City
+0,0,2022-05-08,Norwich City,West Ham,L,Norwich City
+0,0,2022-05-11,Norwich City,Leicester City,L,Norwich City
+0,0,2022-05-15,Norwich City,Wolves,D,Norwich City
+0,0,2022-05-22,Norwich City,Tottenham,L,Norwich City
+0,0,2022-08-28,Nottingham Forest,Tottenham,L,Nottingham Forest
+0,0,2022-08-31,Nottingham Forest,Manchester City,L,Nottingham Forest
+0,0,2022-09-03,Nottingham Forest,Bournemouth,L,Nottingham Forest
+0,0,2022-09-16,Nottingham Forest,Fulham,L,Nottingham Forest
+0,0,2022-10-03,Nottingham Forest,Leicester City,L,Nottingham Forest
+0,0,2022-10-10,Nottingham Forest,Aston Villa,D,Nottingham Forest
+0,0,2022-10-15,Nottingham Forest,Wolves,L,Nottingham Forest
+0,0,2022-10-18,Nottingham Forest,Brighton,D,Nottingham Forest
+1,0,2022-10-22,Nottingham Forest,Liverpool,W,Nottingham Forest
+0,0,2022-10-30,Nottingham Forest,Arsenal,L,Nottingham Forest
+0,0,2022-11-05,Nottingham Forest,Brentford,D,Nottingham Forest
+1,0,2022-11-12,Nottingham Forest,Crystal Palace,W,Nottingham Forest
+0,0,2022-12-27,Nottingham Forest,Manchester Utd,L,Nottingham Forest
+0,0,2023-01-01,Nottingham Forest,Chelsea,D,Nottingham Forest
+1,0,2023-01-04,Nottingham Forest,Southampton,W,Nottingham Forest
+1,0,2023-01-14,Nottingham Forest,Leicester City,W,Nottingham Forest
+0,0,2023-01-21,Nottingham Forest,Bournemouth,D,Nottingham Forest
+1,0,2023-02-05,Nottingham Forest,Leeds United,W,Nottingham Forest
+0,0,2023-02-11,Nottingham Forest,Fulham,L,Nottingham Forest
+0,0,2023-02-18,Nottingham Forest,Manchester City,D,Nottingham Forest
+0,0,2023-02-25,Nottingham Forest,West Ham,L,Nottingham Forest
+0,0,2023-03-05,Nottingham Forest,Everton,D,Nottingham Forest
+0,0,2023-03-11,Nottingham Forest,Tottenham,L,Nottingham Forest
+0,0,2023-03-17,Nottingham Forest,Newcastle Utd,L,Nottingham Forest
+0,0,2023-04-01,Nottingham Forest,Wolves,D,Nottingham Forest
+0,0,2023-04-04,Nottingham Forest,Leeds United,L,Nottingham Forest
+0,0,2023-04-08,Nottingham Forest,Aston Villa,L,Nottingham Forest
+0,0,2023-04-16,Nottingham Forest,Manchester Utd,L,Nottingham Forest
+0,0,2023-04-22,Nottingham Forest,Liverpool,L,Nottingham Forest
+1,0,2023-04-26,Nottingham Forest,Brighton,W,Nottingham Forest
+0,0,2023-04-29,Nottingham Forest,Brentford,L,Nottingham Forest
+1,1,2023-05-08,Nottingham Forest,Southampton,W,Nottingham Forest
+0,0,2023-05-13,Nottingham Forest,Chelsea,D,Nottingham Forest
+1,0,2023-05-20,Nottingham Forest,Arsenal,W,Nottingham Forest
+0,0,2023-05-28,Nottingham Forest,Crystal Palace,D,Nottingham Forest
+0,0,2023-08-12,Nottingham Forest,Arsenal,L,Nottingham Forest
+1,0,2023-08-18,Nottingham Forest,Sheffield Utd,W,Nottingham Forest
+0,0,2023-08-26,Nottingham Forest,Manchester Utd,L,Nottingham Forest
+1,0,2023-09-02,Nottingham Forest,Chelsea,W,Nottingham Forest
+0,0,2023-09-18,Nottingham Forest,Burnley,D,Nottingham Forest
+0,0,2023-09-23,Nottingham Forest,Manchester City,L,Nottingham Forest
+0,0,2023-10-01,Nottingham Forest,Brentford,D,Nottingham Forest
+0,0,2023-10-07,Nottingham Forest,Crystal Palace,D,Nottingham Forest
+0,0,2023-10-21,Nottingham Forest,Luton Town,D,Nottingham Forest
+0,0,2023-10-29,Nottingham Forest,Liverpool,L,Nottingham Forest
+1,0,2023-11-05,Nottingham Forest,Aston Villa,W,Nottingham Forest
+0,0,2023-11-12,Nottingham Forest,West Ham,L,Nottingham Forest
+0,0,2023-11-25,Nottingham Forest,Brighton,L,Nottingham Forest
+0,0,2023-12-02,Nottingham Forest,Everton,L,Nottingham Forest
+0,0,2023-12-06,Nottingham Forest,Fulham,L,Nottingham Forest
+0,0,2023-12-09,Nottingham Forest,Wolves,D,Nottingham Forest
+0,0,2023-12-15,Nottingham Forest,Tottenham,L,Nottingham Forest
+0,0,2023-12-23,Nottingham Forest,Bournemouth,L,Nottingham Forest
+1,0,2023-12-26,Nottingham Forest,Newcastle Utd,W,Nottingham Forest
+1,0,2023-12-30,Nottingham Forest,Manchester Utd,W,Nottingham Forest
+0,0,2024-01-20,Nottingham Forest,Brentford,L,Nottingham Forest
+0,0,2024-01-30,Nottingham Forest,Arsenal,L,Nottingham Forest
+0,0,2024-02-04,Nottingham Forest,Bournemouth,D,Nottingham Forest
+0,0,2024-02-10,Nottingham Forest,Newcastle Utd,L,Nottingham Forest
+1,0,2024-02-17,Nottingham Forest,West Ham,W,Nottingham Forest
+0,0,2024-02-24,Nottingham Forest,Aston Villa,L,Nottingham Forest
+0,0,2024-03-02,Nottingham Forest,Liverpool,L,Nottingham Forest
+0,0,2024-03-10,Nottingham Forest,Brighton,L,Nottingham Forest
+0,0,2024-03-16,Nottingham Forest,Luton Town,D,Nottingham Forest
+0,0,2024-03-30,Nottingham Forest,Crystal Palace,D,Nottingham Forest
+1,0,2024-04-02,Nottingham Forest,Fulham,W,Nottingham Forest
+0,0,2024-04-07,Nottingham Forest,Tottenham,L,Nottingham Forest
+0,0,2024-04-13,Nottingham Forest,Wolves,D,Nottingham Forest
+0,0,2024-04-21,Nottingham Forest,Everton,L,Nottingham Forest
+0,0,2024-04-28,Nottingham Forest,Manchester City,L,Nottingham Forest
+1,0,2024-05-04,Nottingham Forest,Sheffield Utd,W,Nottingham Forest
+0,0,2024-05-11,Nottingham Forest,Chelsea,L,Nottingham Forest
+1,1,2024-05-19,Nottingham Forest,Burnley,W,Nottingham Forest
+0,0,2023-08-12,Sheffield United,Crystal Palace,L,Sheffield United
+0,0,2023-08-18,Sheffield United,Nott'ham Forest,L,Sheffield United
+0,0,2023-08-27,Sheffield United,Manchester City,L,Sheffield United
+0,0,2023-09-02,Sheffield United,Everton,D,Sheffield United
+0,0,2023-09-16,Sheffield United,Tottenham,L,Sheffield United
+0,0,2023-09-24,Sheffield United,Newcastle Utd,L,Sheffield United
+0,0,2023-09-30,Sheffield United,West Ham,L,Sheffield United
+0,0,2023-10-07,Sheffield United,Fulham,L,Sheffield United
+0,0,2023-10-21,Sheffield United,Manchester Utd,L,Sheffield United
+0,0,2023-10-28,Sheffield United,Arsenal,L,Sheffield United
+1,0,2023-11-04,Sheffield United,Wolves,W,Sheffield United
+0,0,2023-11-12,Sheffield United,Brighton,D,Sheffield United
+0,0,2023-11-25,Sheffield United,Bournemouth,L,Sheffield United
+0,0,2023-12-02,Sheffield United,Burnley,L,Sheffield United
+0,0,2023-12-06,Sheffield United,Liverpool,L,Sheffield United
+1,0,2023-12-09,Sheffield United,Brentford,W,Sheffield United
+0,0,2023-12-16,Sheffield United,Chelsea,L,Sheffield United
+0,0,2023-12-22,Sheffield United,Aston Villa,D,Sheffield United
+0,0,2023-12-26,Sheffield United,Luton Town,L,Sheffield United
+0,0,2023-12-30,Sheffield United,Manchester City,L,Sheffield United
+0,0,2024-01-21,Sheffield United,West Ham,D,Sheffield United
+0,0,2024-01-30,Sheffield United,Crystal Palace,L,Sheffield United
+0,0,2024-02-03,Sheffield United,Aston Villa,L,Sheffield United
+1,0,2024-02-10,Sheffield United,Luton Town,W,Sheffield United
+0,0,2024-02-18,Sheffield United,Brighton,L,Sheffield United
+0,0,2024-02-25,Sheffield United,Wolves,L,Sheffield United
+0,0,2024-03-04,Sheffield United,Arsenal,L,Sheffield United
+0,0,2024-03-09,Sheffield United,Bournemouth,D,Sheffield United
+0,0,2024-03-30,Sheffield United,Fulham,D,Sheffield United
+0,0,2024-04-04,Sheffield United,Liverpool,L,Sheffield United
+0,0,2024-04-07,Sheffield United,Chelsea,D,Sheffield United
+0,0,2024-04-13,Sheffield United,Brentford,L,Sheffield United
+0,0,2024-04-20,Sheffield United,Burnley,L,Sheffield United
+0,0,2024-04-24,Sheffield United,Manchester Utd,L,Sheffield United
+0,0,2024-04-27,Sheffield United,Newcastle Utd,L,Sheffield United
+0,0,2024-05-04,Sheffield United,Nott'ham Forest,L,Sheffield United
+0,0,2024-05-11,Sheffield United,Everton,L,Sheffield United
+0,0,2024-05-19,Sheffield United,Tottenham,L,Sheffield United
+1,0,2022-01-11,Southampton,Brentford,W,Southampton
+0,0,2022-01-15,Southampton,Wolves,L,Southampton
+0,1,2022-01-22,Southampton,Manchester City,D,Southampton
+1,0,2022-02-09,Southampton,Tottenham,W,Southampton
+0,0,2022-02-12,Southampton,Manchester Utd,D,Southampton
+1,0,2022-02-19,Southampton,Everton,W,Southampton
+1,1,2022-02-25,Southampton,Norwich City,W,Southampton
+0,1,2022-03-05,Southampton,Aston Villa,L,Southampton
+0,1,2022-03-10,Southampton,Newcastle Utd,L,Southampton
+0,0,2022-03-13,Southampton,Watford,L,Southampton
+0,0,2022-04-02,Southampton,Leeds United,D,Southampton
+0,0,2022-04-09,Southampton,Chelsea,L,Southampton
+1,0,2022-04-16,Southampton,Arsenal,W,Southampton
+0,0,2022-04-21,Southampton,Burnley,L,Southampton
+0,0,2022-04-24,Southampton,Brighton,D,Southampton
+0,0,2022-04-30,Southampton,Crystal Palace,L,Southampton
+0,0,2022-05-07,Southampton,Brentford,L,Southampton
+0,0,2022-05-17,Southampton,Liverpool,L,Southampton
+0,0,2022-05-22,Southampton,Leicester City,L,Southampton
+0,0,2022-08-06,Southampton,Tottenham,L,Southampton
+0,0,2022-08-13,Southampton,Leeds United,D,Southampton
+1,0,2022-08-20,Southampton,Leicester City,W,Southampton
+0,0,2022-08-27,Southampton,Manchester Utd,L,Southampton
+1,0,2022-08-30,Southampton,Chelsea,W,Southampton
+0,0,2022-09-03,Southampton,Wolves,L,Southampton
+0,0,2022-09-16,Southampton,Aston Villa,L,Southampton
+0,0,2022-10-01,Southampton,Everton,L,Southampton
+0,0,2022-10-08,Southampton,Manchester City,L,Southampton
+0,0,2022-10-16,Southampton,West Ham,D,Southampton
+1,0,2022-10-19,Southampton,Bournemouth,W,Southampton
+0,0,2022-10-23,Southampton,Arsenal,D,Southampton
+0,0,2022-10-29,Southampton,Crystal Palace,L,Southampton
+0,0,2022-11-06,Southampton,Newcastle Utd,L,Southampton
+0,0,2022-11-12,Southampton,Liverpool,L,Southampton
+0,0,2022-12-26,Southampton,Brighton,L,Southampton
+0,0,2022-12-31,Southampton,Fulham,L,Southampton
+0,0,2023-01-04,Southampton,Nott'ham Forest,L,Southampton
+1,0,2023-01-14,Southampton,Everton,W,Southampton
+0,0,2023-01-21,Southampton,Aston Villa,L,Southampton
+0,0,2023-02-04,Southampton,Brentford,L,Southampton
+0,0,2023-02-11,Southampton,Wolves,L,Southampton
+1,0,2023-02-18,Southampton,Chelsea,W,Southampton
+0,0,2023-02-25,Southampton,Leeds United,L,Southampton
+1,0,2023-03-04,Southampton,Leicester City,W,Southampton
+0,0,2023-03-12,Southampton,Manchester Utd,D,Southampton
+0,0,2023-03-15,Southampton,Brentford,L,Southampton
+0,0,2023-03-18,Southampton,Tottenham,D,Southampton
+0,1,2023-04-02,Southampton,West Ham,L,Southampton
+0,0,2023-04-08,Southampton,Manchester City,L,Southampton
+0,0,2023-04-15,Southampton,Crystal Palace,L,Southampton
+0,0,2023-04-21,Southampton,Arsenal,D,Southampton
+0,0,2023-04-27,Southampton,Bournemouth,L,Southampton
+0,0,2023-04-30,Southampton,Newcastle Utd,L,Southampton
+0,0,2023-05-08,Southampton,Nott'ham Forest,L,Southampton
+0,0,2023-05-13,Southampton,Fulham,L,Southampton
+0,0,2023-05-21,Southampton,Brighton,L,Southampton
+0,0,2023-05-28,Southampton,Liverpool,D,Southampton
+1,1,2022-01-19,Tottenham Hotspur,Leicester City,W,Tottenham
+0,1,2022-01-23,Tottenham Hotspur,Chelsea,L,Tottenham
+0,1,2022-02-09,Tottenham Hotspur,Southampton,L,Tottenham
+0,0,2022-02-13,Tottenham Hotspur,Wolves,L,Tottenham
+1,0,2022-02-19,Tottenham Hotspur,Manchester City,W,Tottenham
+0,0,2022-02-23,Tottenham Hotspur,Burnley,L,Tottenham
+1,0,2022-02-26,Tottenham Hotspur,Leeds United,W,Tottenham
+1,0,2022-03-07,Tottenham Hotspur,Everton,W,Tottenham
+0,1,2022-03-12,Tottenham Hotspur,Manchester Utd,L,Tottenham
+1,1,2022-03-16,Tottenham Hotspur,Brighton,W,Tottenham
+1,1,2022-03-20,Tottenham Hotspur,West Ham,W,Tottenham
+1,1,2022-04-03,Tottenham Hotspur,Newcastle Utd,W,Tottenham
+1,1,2022-04-09,Tottenham Hotspur,Aston Villa,W,Tottenham
+0,0,2022-04-16,Tottenham Hotspur,Brighton,L,Tottenham
+0,0,2022-04-23,Tottenham Hotspur,Brentford,D,Tottenham
+1,0,2022-05-01,Tottenham Hotspur,Leicester City,W,Tottenham
+0,0,2022-05-07,Tottenham Hotspur,Liverpool,D,Tottenham
+1,0,2022-05-12,Tottenham Hotspur,Arsenal,W,Tottenham
+1,1,2022-05-15,Tottenham Hotspur,Burnley,W,Tottenham
+1,0,2022-05-22,Tottenham Hotspur,Norwich City,W,Tottenham
+1,1,2022-08-06,Tottenham Hotspur,Southampton,W,Tottenham
+0,1,2022-08-14,Tottenham Hotspur,Chelsea,D,Tottenham
+1,1,2022-08-20,Tottenham Hotspur,Wolves,W,Tottenham
+1,0,2022-08-28,Tottenham Hotspur,Nott'ham Forest,W,Tottenham
+0,0,2022-08-31,Tottenham Hotspur,West Ham,D,Tottenham
+1,1,2022-09-03,Tottenham Hotspur,Fulham,W,Tottenham
+1,1,2022-09-17,Tottenham Hotspur,Leicester City,W,Tottenham
+0,1,2022-10-01,Tottenham Hotspur,Arsenal,L,Tottenham
+1,1,2022-10-08,Tottenham Hotspur,Brighton,W,Tottenham
+1,0,2022-10-15,Tottenham Hotspur,Everton,W,Tottenham
+0,0,2022-10-19,Tottenham Hotspur,Manchester Utd,L,Tottenham
+0,0,2022-10-23,Tottenham Hotspur,Newcastle Utd,L,Tottenham
+1,1,2022-10-29,Tottenham Hotspur,Bournemouth,W,Tottenham
+0,0,2022-11-06,Tottenham Hotspur,Liverpool,L,Tottenham
+1,1,2022-11-12,Tottenham Hotspur,Leeds United,W,Tottenham
+0,0,2022-12-26,Tottenham Hotspur,Brentford,D,Tottenham
+0,0,2023-01-01,Tottenham Hotspur,Aston Villa,L,Tottenham
+1,1,2023-01-04,Tottenham Hotspur,Crystal Palace,W,Tottenham
+0,0,2023-01-15,Tottenham Hotspur,Arsenal,L,Tottenham
+0,0,2023-01-19,Tottenham Hotspur,Manchester City,L,Tottenham
+1,0,2023-01-23,Tottenham Hotspur,Fulham,W,Tottenham
+1,0,2023-02-05,Tottenham Hotspur,Manchester City,W,Tottenham
+0,0,2023-02-11,Tottenham Hotspur,Leicester City,L,Tottenham
+1,0,2023-02-19,Tottenham Hotspur,West Ham,W,Tottenham
+1,0,2023-02-26,Tottenham Hotspur,Chelsea,W,Tottenham
+0,0,2023-03-04,Tottenham Hotspur,Wolves,L,Tottenham
+1,1,2023-03-11,Tottenham Hotspur,Nott'ham Forest,W,Tottenham
+0,0,2023-03-18,Tottenham Hotspur,Southampton,D,Tottenham
+0,0,2023-04-03,Tottenham Hotspur,Everton,D,Tottenham
+1,0,2023-04-08,Tottenham Hotspur,Brighton,W,Tottenham
+0,0,2023-04-15,Tottenham Hotspur,Bournemouth,L,Tottenham
+0,0,2023-04-23,Tottenham Hotspur,Newcastle Utd,L,Tottenham
+0,0,2023-04-27,Tottenham Hotspur,Manchester Utd,D,Tottenham
+0,0,2023-04-30,Tottenham Hotspur,Liverpool,L,Tottenham
+1,0,2023-05-06,Tottenham Hotspur,Crystal Palace,W,Tottenham
+0,0,2023-05-13,Tottenham Hotspur,Aston Villa,L,Tottenham
+0,0,2023-05-20,Tottenham Hotspur,Brentford,L,Tottenham
+1,0,2023-05-28,Tottenham Hotspur,Leeds United,W,Tottenham
+0,0,2023-08-13,Tottenham Hotspur,Brentford,D,Tottenham
+1,0,2023-08-19,Tottenham Hotspur,Manchester Utd,W,Tottenham
+1,1,2023-08-26,Tottenham Hotspur,Bournemouth,W,Tottenham
+1,1,2023-09-02,Tottenham Hotspur,Burnley,W,Tottenham
+1,1,2023-09-16,Tottenham Hotspur,Sheffield Utd,W,Tottenham
+0,1,2023-09-24,Tottenham Hotspur,Arsenal,D,Tottenham
+1,0,2023-09-30,Tottenham Hotspur,Liverpool,W,Tottenham
+1,0,2023-10-07,Tottenham Hotspur,Luton Town,W,Tottenham
+1,1,2023-10-23,Tottenham Hotspur,Fulham,W,Tottenham
+1,1,2023-10-27,Tottenham Hotspur,Crystal Palace,W,Tottenham
+0,0,2023-11-06,Tottenham Hotspur,Chelsea,L,Tottenham
+0,0,2023-11-11,Tottenham Hotspur,Wolves,L,Tottenham
+0,0,2023-11-26,Tottenham Hotspur,Aston Villa,L,Tottenham
+0,0,2023-12-03,Tottenham Hotspur,Manchester City,D,Tottenham
+0,1,2023-12-07,Tottenham Hotspur,West Ham,L,Tottenham
+1,0,2023-12-10,Tottenham Hotspur,Newcastle Utd,W,Tottenham
+1,1,2023-12-15,Tottenham Hotspur,Nott'ham Forest,W,Tottenham
+1,1,2023-12-23,Tottenham Hotspur,Everton,W,Tottenham
+0,0,2023-12-28,Tottenham Hotspur,Brighton,L,Tottenham
+1,1,2023-12-31,Tottenham Hotspur,Bournemouth,W,Tottenham
+0,0,2024-01-14,Tottenham Hotspur,Manchester Utd,D,Tottenham
+1,0,2024-01-31,Tottenham Hotspur,Brentford,W,Tottenham
+0,1,2024-02-03,Tottenham Hotspur,Everton,D,Tottenham
+1,1,2024-02-10,Tottenham Hotspur,Brighton,W,Tottenham
+0,1,2024-02-17,Tottenham Hotspur,Wolves,L,Tottenham
+1,1,2024-03-02,Tottenham Hotspur,Crystal Palace,W,Tottenham
+1,1,2024-03-10,Tottenham Hotspur,Aston Villa,W,Tottenham
+0,0,2024-03-16,Tottenham Hotspur,Fulham,L,Tottenham
+1,0,2024-03-30,Tottenham Hotspur,Luton Town,W,Tottenham
+0,1,2024-04-02,Tottenham Hotspur,West Ham,D,Tottenham
+1,0,2024-04-07,Tottenham Hotspur,Nott'ham Forest,W,Tottenham
+0,0,2024-04-13,Tottenham Hotspur,Newcastle Utd,L,Tottenham
+0,0,2024-04-28,Tottenham Hotspur,Arsenal,L,Tottenham
+0,0,2024-05-02,Tottenham Hotspur,Chelsea,L,Tottenham
+0,0,2024-05-05,Tottenham Hotspur,Liverpool,L,Tottenham
+1,0,2024-05-11,Tottenham Hotspur,Burnley,W,Tottenham
+0,0,2024-05-14,Tottenham Hotspur,Manchester City,L,Tottenham
+1,1,2024-05-19,Tottenham Hotspur,Sheffield Utd,W,Tottenham
+0,0,2022-01-15,Watford,Newcastle Utd,D,Watford
+0,1,2022-01-21,Watford,Norwich City,L,Watford
+0,0,2022-02-05,Watford,Burnley,D,Watford
+0,0,2022-02-08,Watford,West Ham,L,Watford
+0,0,2022-02-12,Watford,Brighton,L,Watford
+1,0,2022-02-19,Watford,Aston Villa,W,Watford
+0,0,2022-02-23,Watford,Crystal Palace,L,Watford
+0,0,2022-02-26,Watford,Manchester Utd,D,Watford
+0,0,2022-03-06,Watford,Arsenal,L,Watford
+0,0,2022-03-10,Watford,Wolves,L,Watford
+1,0,2022-03-13,Watford,Southampton,W,Watford
+0,0,2022-04-02,Watford,Liverpool,L,Watford
+0,0,2022-04-09,Watford,Leeds United,L,Watford
+0,1,2022-04-16,Watford,Brentford,L,Watford
+0,0,2022-04-23,Watford,Manchester City,L,Watford
+0,0,2022-04-30,Watford,Burnley,L,Watford
+0,0,2022-05-07,Watford,Crystal Palace,L,Watford
+0,0,2022-05-11,Watford,Everton,D,Watford
+0,0,2022-05-15,Watford,Leicester City,L,Watford
+0,0,2022-05-22,Watford,Chelsea,L,Watford
+1,1,2022-01-12,West Ham United,Norwich City,W,West Ham
+0,0,2022-01-16,West Ham United,Leeds United,L,West Ham
+0,0,2022-01-22,West Ham United,Manchester Utd,L,West Ham
+1,0,2022-02-08,West Ham United,Watford,W,West Ham
+0,0,2022-02-13,West Ham United,Leicester City,D,West Ham
+0,0,2022-02-19,West Ham United,Newcastle Utd,D,West Ham
+1,0,2022-02-27,West Ham United,Wolves,W,West Ham
+0,0,2022-03-05,West Ham United,Liverpool,L,West Ham
+1,0,2022-03-13,West Ham United,Aston Villa,W,West Ham
+0,0,2022-03-20,West Ham United,Tottenham,L,West Ham
+1,0,2022-04-03,West Ham United,Everton,W,West Ham
+0,1,2022-04-10,West Ham United,Brentford,L,West Ham
+0,0,2022-04-17,West Ham United,Burnley,D,West Ham
+0,0,2022-04-24,West Ham United,Chelsea,L,West Ham
+0,0,2022-05-01,West Ham United,Arsenal,L,West Ham
+1,0,2022-05-08,West Ham United,Norwich City,W,West Ham
+0,0,2022-05-15,West Ham United,Manchester City,D,West Ham
+0,0,2022-05-22,West Ham United,Brighton,L,West Ham
+0,0,2022-08-07,West Ham United,Manchester City,L,West Ham
+0,0,2022-08-14,West Ham United,Nott'ham Forest,L,West Ham
+0,0,2022-08-21,West Ham United,Brighton,L,West Ham
+1,0,2022-08-28,West Ham United,Aston Villa,W,West Ham
+0,0,2022-08-31,West Ham United,Tottenham,D,West Ham
+0,0,2022-09-03,West Ham United,Chelsea,L,West Ham
+0,0,2022-09-18,West Ham United,Everton,L,West Ham
+1,0,2022-10-01,West Ham United,Wolves,W,West Ham
+1,0,2022-10-09,West Ham United,Fulham,W,West Ham
+0,1,2022-10-16,West Ham United,Southampton,D,West Ham
+0,0,2022-10-19,West Ham United,Liverpool,L,West Ham
+1,1,2022-10-24,West Ham United,Bournemouth,W,West Ham
+0,0,2022-10-30,West Ham United,Manchester Utd,L,West Ham
+0,0,2022-11-06,West Ham United,Crystal Palace,L,West Ham
+0,0,2022-11-12,West Ham United,Leicester City,L,West Ham
+0,0,2022-12-26,West Ham United,Arsenal,L,West Ham
+0,0,2022-12-30,West Ham United,Brentford,L,West Ham
+0,0,2023-01-04,West Ham United,Leeds United,D,West Ham
+0,0,2023-01-14,West Ham United,Wolves,L,West Ham
+1,0,2023-01-21,West Ham United,Everton,W,West Ham
+0,0,2023-02-04,West Ham United,Newcastle Utd,D,West Ham
+0,0,2023-02-11,West Ham United,Chelsea,D,West Ham
+0,0,2023-02-19,West Ham United,Tottenham,L,West Ham
+1,0,2023-02-25,West Ham United,Nott'ham Forest,W,West Ham
+0,0,2023-03-04,West Ham United,Brighton,L,West Ham
+0,0,2023-03-12,West Ham United,Aston Villa,D,West Ham
+1,0,2023-04-02,West Ham United,Southampton,W,West Ham
+0,0,2023-04-05,West Ham United,Newcastle Utd,L,West Ham
+1,0,2023-04-08,West Ham United,Fulham,W,West Ham
+0,0,2023-04-16,West Ham United,Arsenal,D,West Ham
+1,0,2023-04-23,West Ham United,Bournemouth,W,West Ham
+0,1,2023-04-26,West Ham United,Liverpool,L,West Ham
+0,0,2023-04-29,West Ham United,Crystal Palace,L,West Ham
+0,0,2023-05-03,West Ham United,Manchester City,L,West Ham
+1,0,2023-05-07,West Ham United,Manchester Utd,W,West Ham
+0,0,2023-05-14,West Ham United,Brentford,L,West Ham
+1,0,2023-05-21,West Ham United,Leeds United,W,West Ham
+0,0,2023-05-28,West Ham United,Leicester City,L,West Ham
+0,0,2023-08-12,West Ham United,Bournemouth,D,West Ham
+1,1,2023-08-20,West Ham United,Chelsea,W,West Ham
+1,0,2023-08-26,West Ham United,Brighton,W,West Ham
+1,0,2023-09-01,West Ham United,Luton Town,W,West Ham
+0,0,2023-09-16,West Ham United,Manchester City,L,West Ham
+0,0,2023-09-24,West Ham United,Liverpool,L,West Ham
+1,0,2023-09-30,West Ham United,Sheffield Utd,W,West Ham
+0,0,2023-10-08,West Ham United,Newcastle Utd,D,West Ham
+0,0,2023-10-22,West Ham United,Aston Villa,L,West Ham
+0,0,2023-10-29,West Ham United,Everton,L,West Ham
+0,0,2023-11-04,West Ham United,Brentford,L,West Ham
+1,0,2023-11-12,West Ham United,Nott'ham Forest,W,West Ham
+1,0,2023-11-25,West Ham United,Burnley,W,West Ham
+0,0,2023-12-03,West Ham United,Crystal Palace,D,West Ham
+1,0,2023-12-07,West Ham United,Tottenham,W,West Ham
+0,0,2023-12-10,West Ham United,Fulham,L,West Ham
+1,0,2023-12-17,West Ham United,Wolves,W,West Ham
+1,0,2023-12-23,West Ham United,Manchester Utd,W,West Ham
+1,0,2023-12-28,West Ham United,Arsenal,W,West Ham
+0,1,2024-01-02,West Ham United,Brighton,D,West Ham
+0,1,2024-01-21,West Ham United,Sheffield Utd,D,West Ham
+0,0,2024-02-01,West Ham United,Bournemouth,D,West Ham
+0,0,2024-02-04,West Ham United,Manchester Utd,L,West Ham
+0,0,2024-02-11,West Ham United,Arsenal,L,West Ham
+0,0,2024-02-17,West Ham United,Nott'ham Forest,L,West Ham
+1,0,2024-02-26,West Ham United,Brentford,W,West Ham
+1,0,2024-03-02,West Ham United,Everton,W,West Ham
+0,0,2024-03-10,West Ham United,Burnley,D,West Ham
+0,1,2024-03-17,West Ham United,Aston Villa,D,West Ham
+0,0,2024-03-30,West Ham United,Newcastle Utd,L,West Ham
+0,1,2024-04-02,West Ham United,Tottenham,D,West Ham
+1,0,2024-04-06,West Ham United,Wolves,W,West Ham
+0,0,2024-04-14,West Ham United,Fulham,L,West Ham
+0,0,2024-04-21,West Ham United,Crystal Palace,L,West Ham
+0,0,2024-04-27,West Ham United,Liverpool,D,West Ham
+0,0,2024-05-05,West Ham United,Chelsea,L,West Ham
+1,0,2024-05-11,West Ham United,Luton Town,W,West Ham
+0,0,2024-05-19,West Ham United,Manchester City,L,West Ham
+1,0,2022-01-03,Wolverhampton Wanderers,Manchester Utd,W,Wolves
+1,1,2022-01-15,Wolverhampton Wanderers,Southampton,W,Wolves
+1,0,2022-01-22,Wolverhampton Wanderers,Brentford,W,Wolves
+0,0,2022-02-10,Wolverhampton Wanderers,Arsenal,L,Wolves
+1,0,2022-02-13,Wolverhampton Wanderers,Tottenham,W,Wolves
+1,0,2022-02-20,Wolverhampton Wanderers,Leicester City,W,Wolves
+0,0,2022-02-24,Wolverhampton Wanderers,Arsenal,L,Wolves
+0,0,2022-02-27,Wolverhampton Wanderers,West Ham,L,Wolves
+0,0,2022-03-05,Wolverhampton Wanderers,Crystal Palace,L,Wolves
+1,0,2022-03-10,Wolverhampton Wanderers,Watford,W,Wolves
+1,0,2022-03-13,Wolverhampton Wanderers,Everton,W,Wolves
+0,0,2022-03-18,Wolverhampton Wanderers,Leeds United,L,Wolves
+1,0,2022-04-02,Wolverhampton Wanderers,Aston Villa,W,Wolves
+0,0,2022-04-08,Wolverhampton Wanderers,Newcastle Utd,L,Wolves
+0,0,2022-04-24,Wolverhampton Wanderers,Burnley,L,Wolves
+0,0,2022-04-30,Wolverhampton Wanderers,Brighton,L,Wolves
+0,0,2022-05-07,Wolverhampton Wanderers,Chelsea,D,Wolves
+0,0,2022-05-11,Wolverhampton Wanderers,Manchester City,L,Wolves
+0,0,2022-05-15,Wolverhampton Wanderers,Norwich City,D,Wolves
+0,0,2022-05-22,Wolverhampton Wanderers,Liverpool,L,Wolves
+0,0,2022-08-06,Wolverhampton Wanderers,Leeds United,L,Wolves
+0,0,2022-08-13,Wolverhampton Wanderers,Fulham,D,Wolves
+0,0,2022-08-20,Wolverhampton Wanderers,Tottenham,L,Wolves
+0,0,2022-08-28,Wolverhampton Wanderers,Newcastle Utd,D,Wolves
+0,0,2022-08-31,Wolverhampton Wanderers,Bournemouth,D,Wolves
+1,0,2022-09-03,Wolverhampton Wanderers,Southampton,W,Wolves
+0,0,2022-09-17,Wolverhampton Wanderers,Manchester City,L,Wolves
+0,0,2022-10-01,Wolverhampton Wanderers,West Ham,L,Wolves
+0,0,2022-10-08,Wolverhampton Wanderers,Chelsea,L,Wolves
+1,0,2022-10-15,Wolverhampton Wanderers,Nott'ham Forest,W,Wolves
+0,0,2022-10-18,Wolverhampton Wanderers,Crystal Palace,L,Wolves
+0,0,2022-10-23,Wolverhampton Wanderers,Leicester City,L,Wolves
+0,0,2022-10-29,Wolverhampton Wanderers,Brentford,D,Wolves
+0,0,2022-11-05,Wolverhampton Wanderers,Brighton,L,Wolves
+0,0,2022-11-12,Wolverhampton Wanderers,Arsenal,L,Wolves
+1,0,2022-12-26,Wolverhampton Wanderers,Everton,W,Wolves
+0,0,2022-12-31,Wolverhampton Wanderers,Manchester Utd,L,Wolves
+0,0,2023-01-04,Wolverhampton Wanderers,Aston Villa,D,Wolves
+1,0,2023-01-14,Wolverhampton Wanderers,West Ham,W,Wolves
+0,0,2023-01-22,Wolverhampton Wanderers,Manchester City,L,Wolves
+1,0,2023-02-04,Wolverhampton Wanderers,Liverpool,W,Wolves
+1,0,2023-02-11,Wolverhampton Wanderers,Southampton,W,Wolves
+0,0,2023-02-18,Wolverhampton Wanderers,Bournemouth,L,Wolves
+0,0,2023-02-24,Wolverhampton Wanderers,Fulham,D,Wolves
+0,0,2023-03-01,Wolverhampton Wanderers,Liverpool,L,Wolves
+1,0,2023-03-04,Wolverhampton Wanderers,Tottenham,W,Wolves
+0,0,2023-03-12,Wolverhampton Wanderers,Newcastle Utd,L,Wolves
+0,0,2023-03-18,Wolverhampton Wanderers,Leeds United,L,Wolves
+0,1,2023-04-01,Wolverhampton Wanderers,Nott'ham Forest,D,Wolves
+1,0,2023-04-08,Wolverhampton Wanderers,Chelsea,W,Wolves
+1,0,2023-04-15,Wolverhampton Wanderers,Brentford,W,Wolves
+0,0,2023-04-22,Wolverhampton Wanderers,Leicester City,L,Wolves
+1,0,2023-04-25,Wolverhampton Wanderers,Crystal Palace,W,Wolves
+0,0,2023-04-29,Wolverhampton Wanderers,Brighton,L,Wolves
+1,0,2023-05-06,Wolverhampton Wanderers,Aston Villa,W,Wolves
+0,0,2023-05-13,Wolverhampton Wanderers,Manchester Utd,L,Wolves
+0,0,2023-05-20,Wolverhampton Wanderers,Everton,D,Wolves
+0,0,2023-05-28,Wolverhampton Wanderers,Arsenal,L,Wolves
+0,0,2023-08-14,Wolverhampton Wanderers,Manchester Utd,L,Wolves
+0,0,2023-08-19,Wolverhampton Wanderers,Brighton,L,Wolves
+1,0,2023-08-26,Wolverhampton Wanderers,Everton,W,Wolves
+0,0,2023-09-03,Wolverhampton Wanderers,Crystal Palace,L,Wolves
+0,0,2023-09-16,Wolverhampton Wanderers,Liverpool,L,Wolves
+0,0,2023-09-23,Wolverhampton Wanderers,Luton Town,D,Wolves
+1,0,2023-09-30,Wolverhampton Wanderers,Manchester City,W,Wolves
+0,0,2023-10-08,Wolverhampton Wanderers,Aston Villa,D,Wolves
+1,0,2023-10-21,Wolverhampton Wanderers,Bournemouth,W,Wolves
+0,0,2023-10-28,Wolverhampton Wanderers,Newcastle Utd,D,Wolves
+0,1,2023-11-04,Wolverhampton Wanderers,Sheffield Utd,L,Wolves
+1,1,2023-11-11,Wolverhampton Wanderers,Tottenham,W,Wolves
+0,0,2023-11-27,Wolverhampton Wanderers,Fulham,L,Wolves
+0,0,2023-12-02,Wolverhampton Wanderers,Arsenal,L,Wolves
+1,0,2023-12-05,Wolverhampton Wanderers,Burnley,W,Wolves
+0,1,2023-12-09,Wolverhampton Wanderers,Nott'ham Forest,D,Wolves
+0,0,2023-12-17,Wolverhampton Wanderers,West Ham,L,Wolves
+1,0,2023-12-24,Wolverhampton Wanderers,Chelsea,W,Wolves
+1,0,2023-12-27,Wolverhampton Wanderers,Brentford,W,Wolves
+1,0,2023-12-30,Wolverhampton Wanderers,Everton,W,Wolves
+0,0,2024-01-22,Wolverhampton Wanderers,Brighton,D,Wolves
+0,0,2024-02-01,Wolverhampton Wanderers,Manchester Utd,L,Wolves
+1,0,2024-02-04,Wolverhampton Wanderers,Chelsea,W,Wolves
+0,1,2024-02-10,Wolverhampton Wanderers,Brentford,L,Wolves
+1,0,2024-02-17,Wolverhampton Wanderers,Tottenham,W,Wolves
+1,0,2024-02-25,Wolverhampton Wanderers,Sheffield Utd,W,Wolves
+0,0,2024-03-02,Wolverhampton Wanderers,Newcastle Utd,L,Wolves
+1,0,2024-03-09,Wolverhampton Wanderers,Fulham,W,Wolves
+0,0,2024-03-30,Wolverhampton Wanderers,Aston Villa,L,Wolves
+0,0,2024-04-02,Wolverhampton Wanderers,Burnley,D,Wolves
+0,0,2024-04-06,Wolverhampton Wanderers,West Ham,L,Wolves
+0,0,2024-04-13,Wolverhampton Wanderers,Nott'ham Forest,D,Wolves
+0,0,2024-04-20,Wolverhampton Wanderers,Arsenal,L,Wolves
+0,0,2024-04-24,Wolverhampton Wanderers,Bournemouth,L,Wolves
+1,0,2024-04-27,Wolverhampton Wanderers,Luton Town,W,Wolves
+0,0,2024-05-04,Wolverhampton Wanderers,Manchester City,L,Wolves
+0,0,2024-05-11,Wolverhampton Wanderers,Crystal Palace,L,Wolves
+0,0,2024-05-19,Wolverhampton Wanderers,Liverpool,L,Wolves
